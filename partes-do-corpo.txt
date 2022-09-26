@@ -1,0 +1,27 @@
+3-cintura(nem todos os personagens possuem essa parte)
+4,5,6,7(calda)
+57,58,59,5a(faixa longa)
+8-perna direita superior
+9-perna direita meio
+A-perna direita inferior
+b-pe direito
+c-perna esquerda superior
+d-perna esquerda meio
+e-perna esquerda inferior
+f-pe esquerdo
+10-meio da cintura
+11-tronco do corpo inferior
+12-tronco superior direito
+13-braço direito superior
+14-braço direito medio
+15-mão direita
+16 ate 1e- dedos da mão direita
+20-tronco superior esquerdo
+21-braço superior esquerdo
+22-braço medio esquerdo
+23-mão esquerda
+24 ate 2c-dedos da mão esquerda 
+2e-pescoço
+2f-cabeça
+30-rosto
+50,51,52,53,54,55,56,57,58,59,4f,6f-cabelo(não, eles não nem nada haver com a faixa longa do começo)

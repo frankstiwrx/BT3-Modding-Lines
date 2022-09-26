@@ -1,0 +1,1453 @@
+Lista de trajes unk de los personajes.
+
+Goku inicio Traje 1 -- ƒ‚ƒfEunk.unk
+Goku inicio Traje 2 -- ƒ‚ƒfE1424).unk
+Goku inicio Traje 3 -- ƒ‚ƒfE1425).unk
+Goku inicio Traje 4 -- ƒ‚ƒfE1426).unk
+Goku inicio Traje 1 dañado -- ƒ‚ƒfE1427).unk
+Goku inicio Traje 2 dañado -- ƒ‚ƒfE1428).unk
+Goku inicio Traje 3 dañado -- ƒ‚ƒfE1429).unk
+Goku inicio Traje 4 dañado -- ƒ‚ƒfE1430).unk
+
+Goku Medio Traje 1 -- ƒ‚ƒfE1433).unk
+Goku Medio Traje 2 -- ƒ‚ƒfE1434).unk
+Goku Medio Traje 3 -- ƒ‚ƒfE1435).unk
+Goku Medio Traje 4 -- ƒ‚ƒfE1436).unk
+Goku Medio Traje 1 dañado -- ƒ‚ƒfE1437).unk
+Goku Medio Traje 2 dañado -- ƒ‚ƒfE1438).unk
+Goku Medio Traje 3 dañado -- ƒ‚ƒfE1439).unk
+Goku Medio Traje 4 dañado -- ƒ‚ƒfE1440).unk
+
+Goku Medio SSJ Traje 1 -- ƒ‚ƒfE1443).unk
+Goku Medio SSJ Traje 2 -- ƒ‚ƒfE1444).unk
+Goku Medio SSJ Traje 3 -- ƒ‚ƒfE1445).unk
+Goku Medio SSJ Traje 4 -- ƒ‚ƒfE1446).unk
+Goku Medio SSJ Traje 1 dañado -- ƒ‚ƒfE1447).unk
+Goku Medio SSJ Traje 2 dañado -- ƒ‚ƒfE1448).unk
+Goku Medio SSJ Traje 3 dañado -- ƒ‚ƒfE1449).unk
+Goku Medio SSJ Traje 4 dañado -- ƒ‚ƒfE1450).unk
+
+Goku Fin Traje 1 -- ƒ‚ƒfE1453).unk
+Goku Fin Traje 2 -- ƒ‚ƒfE1454).unk
+Goku Fin Traje 3 -- ƒ‚ƒfE1455).unk
+Goku Fin Traje 4 (Vacio) -- ƒ‚ƒfE1456).unk
+Goku Fin Traje 1 dañado -- ƒ‚ƒfE1457).unk
+Goku Fin Traje 2 dañado -- ƒ‚ƒfE1458).unk
+Goku Fin Traje 3 dañado -- ƒ‚ƒfE1459).unk
+Goku Fin Traje 4 dañado (Vacio) -- ƒ‚ƒfE1460).unk
+
+Goku Fin SSJ1 Traje 1 -- ƒ‚ƒfE1463).unk
+Goku Fin SSJ1 Traje 2 -- ƒ‚ƒfE1464).unk
+Goku Fin SSJ1 Traje 3 -- ƒ‚ƒfE1465).unk
+Goku Fin SSJ1 Traje 4 (Vacio) -- ƒ‚ƒfE1466).unk
+Goku Fin SSJ1 Traje 1 dañado -- ƒ‚ƒfE1467).unk
+Goku Fin SSJ1 Traje 2 dañado -- ƒ‚ƒfE1468).unk
+Goku Fin SSJ1 Traje 3 dañado -- ƒ‚ƒfE1469).unk
+Goku Fin SSJ1 Traje 4 dañado (Vacio) -- ƒ‚ƒfE1470).unk
+
+Goku Fin SSJ2 Traje 1 -- ƒ‚ƒfE1473).unk
+Goku Fin SSJ2 Traje 2 -- ƒ‚ƒfE1474).unk
+Goku Fin SSJ2 Traje 3 -- ƒ‚ƒfE1475).unk
+Goku Fin SSJ2 Traje 4 (Vacio) -- ƒ‚ƒfE1476).unk
+Goku Fin SSJ2 Traje 1 dañado -- ƒ‚ƒfE1477).unk
+Goku Fin SSJ2 Traje 2 dañado -- ƒ‚ƒfE1478).unk
+Goku Fin SSJ2 Traje 3 dañado -- ƒ‚ƒfE1479).unk
+Goku Fin SSJ2 Traje 4 dañado (Vacio) -- ƒ‚ƒfE1480).unk
+
+Goku Fin SSJ3 Traje 1 -- ƒ‚ƒfE1483).unk
+Goku Fin SSJ3 Traje 2 -- ƒ‚ƒfE1484).unk
+Goku Fin SSJ3 Traje 3 -- ƒ‚ƒfE1485).unk
+Goku Fin SSJ3 Traje 4 (Vacio) -- ƒ‚ƒfE1486).unk
+Goku Fin SSJ3 Traje 1 dañado -- ƒ‚ƒfE1487).unk
+Goku Fin SSJ3 Traje 2 dañado -- ƒ‚ƒfE1488).unk
+Goku Fin SSJ3 Traje 3 dañado -- ƒ‚ƒfE1489).unk
+Goku Fin SSJ3 Traje 4 dañado (Vacio) -- ƒ‚ƒfE1490).unk
+
+Goku GT Traje 1 -- ƒ‚Eunk.unk
+Goku GT Traje 2 -- ƒ‚E1494).unk
+Goku GT Traje 3 (Vacio)-- ƒ‚E1495).unk
+Goku GT Traje 4 (Vacio) -- ƒ‚E1496).unk
+Goku GT Traje 1 dañado -- ƒ‚E1497).unk
+Goku GT Traje 2 dañado -- ƒ‚E1498).unk
+Goku GT Traje 3 dañado (Vacio) -- ƒ‚E1499).unk
+Goku GT Traje 4 dañado (Vacio) -- ƒ‚E1500).unk
+
+Goku GT SSJ1 Traje 1 -- ƒ‚E1503).unk
+Goku GT SSJ1 Traje 2 -- ƒ‚E1504).unk
+Goku GT SSJ1 Traje 3 (Vacio)-- ƒ‚E1505).unk
+Goku GT SSJ1 Traje 4 (Vacio) -- ƒ‚E1506).unk
+Goku GT SSJ1 Traje 1 dañado -- ƒ‚E1507).unk
+Goku GT SSJ1 Traje 2 dañado -- ƒ‚E1508).unk
+Goku GT SSJ1 Traje 3 dañado (Vacio) -- ƒ‚E1509).unk
+Goku GT SSJ1 Traje 4 dañado (Vacio) -- ƒ‚E1510).unk
+
+Goku GT SSJ3 Traje 1 -- ƒ‚E1513).unk
+Goku GT SSJ3 Traje 2 -- ƒ‚E1514).unk
+Goku GT SSJ3 Traje 3 (Vacio)-- ƒ‚E1515).unk
+Goku GT SSJ3 Traje 4 (Vacio) -- ƒ‚E1516).unk
+Goku GT SSJ3 Traje 1 dañado -- ƒ‚E1517).unk
+Goku GT SSJ3 Traje 2 dañado -- ƒ‚E1518).unk
+Goku GT SSJ3 Traje 3 dañado (Vacio) -- ƒ‚E1519).unk
+Goku GT SSJ3 Traje 4 dañado (Vacio) -- ƒ‚E1520).unk
+
+Goku SSJ4 Traje 1 -- ƒ‚E1523).unk
+Goku SSJ4 Traje 2 -- ƒ‚E1524).unk
+Goku SSJ4 Traje 3 (Vacio) -- ƒ‚E1525).unk
+Goku SSJ4 Traje 4 (Vacio) -- ƒ‚E1526).unk
+Goku SSJ4 Traje 1 dañado -- ƒ‚E1527).unk
+Goku SSJ4 Traje 2 dañado -- ƒ‚E1528).unk
+Goku SSJ4 Traje 3 dañado (Vacio) -- ƒ‚E1529).unk
+Goku SSJ4 Traje 4 dañado (Vacio) -- ƒ‚E1530).unk
+
+Goku niño Traje 1 -- ƒ‚ƒfE1533).unk
+Goku niño Traje 2 -- ƒ‚ƒfE1534).unk
+Goku niño Traje 3 (Vacio) -- ƒ‚ƒfE1535).unk
+Goku niño Traje 4 (Vacio) -- ƒ‚ƒfE1536).unk
+Goku niño Traje 1 dañado -- ƒ‚ƒfE1537).unk
+Goku niño Traje 2 dañado -- ƒ‚ƒfE1538).unk
+Goku niño Traje 3 dañado (Vacio) -- ƒ‚ƒfE1539).unk
+Goku niño Traje 4 dañado (Vacio) -- ƒ‚ƒfE1540).unk
+
+Mono Gigante Traje 1 -- unknow_01543.unk
+Mono Gigante Traje 2 -- unknow_01544.unk
+Mono Gigante Traje 3 (Vacio) -- unknow_01545.unk
+Mono Gigante Traje 4 (Vacio) -- unknow_01546.unk
+Mono Gigante Traje 1 dañado -- unknow_01547.unk
+Mono Gigante Traje 2 dañado -- unknow_01548.unk
+Mono Gigante Traje 3 (Vacio) -- unknow_01549.unk
+Mono Gigante Traje 4 (Vacio) -- unknow_01550.unk
+
+Gohan niño Traje 1 -- ƒ‚ƒfE1553).unk
+Gohan niño Traje 2 -- ƒ‚ƒfE1554).unk
+Gohan niño Traje 3 -- ƒ‚ƒfE1555).unk
+Gohan niño Traje 4 -- ƒ‚ƒfE1556).unk
+Gohan niño Traje 1 dañado -- ƒ‚ƒfE1557).unk
+Gohan niño Traje 2 dañado -- ƒ‚ƒfE1558).unk
+Gohan niño Traje 3 dañado -- ƒ‚ƒfE1559).unk
+Gohan niño Traje 4 dañado -- ƒ‚ƒfE1560).unk
+
+Gohan Adolescente Traje 1 -- ƒ‚ƒfE1563).unk
+Gohan Adolescente Traje 2 -- ƒ‚ƒfE1564).unk
+Gohan Adolescente Traje 3 -- ƒ‚ƒfE1565).unk
+Gohan Adolescente Traje 4 (Vacio) -- ƒ‚ƒfE1566).unk
+Gohan Adolescente Traje 1 dañado -- ƒ‚ƒfE1567).unk
+Gohan Adolescente Traje 2 dañado -- ƒ‚ƒfE1568).unk
+Gohan Adolescente Traje 3 dañado -- ƒ‚ƒfE1569).unk
+Gohan Adolescente Traje 4 (Vacio) -- ƒ‚ƒfE1570).unk
+
+Gohan Adolescente SSJ1 Traje 1 -- ƒ‚ƒfE1573).unk
+Gohan Adolescente SSJ1 Traje 2 -- ƒ‚ƒfE1574).unk
+Gohan Adolescente SSJ1 Traje 3 -- ƒ‚ƒfE1575).unk
+Gohan Adolescente SSJ1 Traje 4 (Vacio) -- ƒ‚ƒfE1576).unk
+Gohan Adolescente SSJ1 Traje 1 dañado -- ƒ‚ƒfE1577).unk
+Gohan Adolescente SSJ1 Traje 2 dañado -- ƒ‚ƒfE1578).unk
+Gohan Adolescente SSJ1 Traje 3 dañado -- ƒ‚ƒfE1579).unk
+Gohan Adolescente SSJ1 Traje 4 (Vacio) -- ƒ‚ƒfE1580).unk
+
+Gohan Adolescente SSJ2 Traje 1 -- ƒ‚ƒfE1583).unk
+Gohan Adolescente SSJ2 Traje 2 -- ƒ‚ƒfE1584).unk
+Gohan Adolescente SSJ2 Traje 3 -- ƒ‚ƒfE1585).unk
+Gohan Adolescente SSJ2 Traje 4 (Vacio) -- ƒ‚ƒfE1586).unk
+Gohan Adolescente SSJ2 Traje 1 dañado -- ƒ‚ƒfE1587).unk
+Gohan Adolescente SSJ2 Traje 2 dañado -- ƒ‚ƒfE1588).unk
+Gohan Adolescente SSJ2 Traje 3 dañado -- ƒ‚ƒfE1589).unk
+Gohan Adolescente SSJ2 Traje 4 (Vacio) -- ƒ‚ƒfE1590).unk
+
+Gohan Adulto Traje 1 -- ƒ‚ƒfE1593).unk
+Gohan Adulto Traje 2 -- ƒ‚ƒfE1594).unk
+Gohan Adulto Traje 3 (Vacio) -- ƒ‚ƒfE1595).unk
+Gohan Adulto Traje 4 (Vacio) -- ƒ‚ƒfE1596).unk
+Gohan Adulto Traje 1 dañado -- ƒ‚ƒfE1597).unk
+Gohan Adulto Traje 2 dañado -- ƒ‚ƒfE1598).unk
+Gohan Adulto Traje 3 dañado (Vacio) -- ƒ‚ƒfE1599).unk
+Gohan Adulto Traje 4 dañado (Vacio) -- ƒ‚ƒfE1600).unk
+
+Gohan Adulto SSJ1 Traje 1 -- ƒ‚ƒfE1603).unk
+Gohan Adulto SSJ1 Traje 2 -- ƒ‚ƒfE1604).unk
+Gohan Adulto SSJ1 Traje 3 (Vacio) -- ƒ‚ƒfE1605).unk
+Gohan Adulto SSJ1 Traje 4 (Vacio) -- ƒ‚ƒfE1606).unk
+Gohan Adulto SSJ1 Traje 1 dañado -- ƒ‚ƒfE1607).unk
+Gohan Adulto SSJ1 Traje 2 dañado -- ƒ‚ƒfE1608).unk
+Gohan Adulto SSJ1 Traje 3 dañado (Vacio) -- ƒ‚ƒfE1609).unk
+Gohan Adulto SSJ1 Traje 4 dañado (Vacio) -- ƒ‚ƒfE1610).unk
+
+Gohan Adulto SSJ2 Traje 1 -- ƒ‚ƒfE1613).unk
+Gohan Adulto SSJ2 Traje 2 -- ƒ‚ƒfE1614).unk
+Gohan Adulto SSJ2 Traje 3 (Vacio) -- ƒ‚ƒfE1615).unk
+Gohan Adulto SSJ2 Traje 4 (Vacio) -- ƒ‚ƒfE1616).unk
+Gohan Adulto SSJ2 Traje 1 dañado -- ƒ‚ƒfE1617).unk
+Gohan Adulto SSJ2 Traje 2 dañado -- ƒ‚ƒfE1618).unk
+Gohan Adulto SSJ2 Traje 3 dañado (Vacio) -- ƒ‚ƒfE1619).unk
+Gohan Adulto SSJ2 Traje 4 dañado (Vacio) -- ƒ‚ƒfE1620).unk
+
+Gohan Adulto Gran Saiyaman Traje 1 -- ƒOƒŒ[ƒgƒTƒCƒ„.unk
+Gohan Adulto Gran Saiyaman Traje 2 -- ƒOƒŒ[ƒgƒTƒCƒ„(1624).unk
+Gohan Adulto Gran Saiyaman Traje 3 (Vacio) -- ƒOƒŒ[ƒgƒTƒCƒ„(1625).unk
+Gohan Adulto Gran Saiyaman Traje 4 (Vacio) -- ƒOƒŒ[ƒgƒTƒCƒ„(1626).unk
+Gohan Adulto Gran Saiyaman Traje 1 dañado -- ƒOƒŒ[ƒgƒTƒCƒ„(1627).unk
+Gohan Adulto Gran Saiyaman Traje 2 dañado -- ƒOƒŒ[ƒgƒTƒCƒ„(1628).unk
+Gohan Adulto Gran Saiyaman Traje 3 dañado (Vacio) -- ƒOƒŒ[ƒgƒTƒCƒ„(1629).unk
+Gohan Adulto Gran Saiyaman Traje 4 dañado (Vacio) -- ƒOƒŒ[ƒgƒTƒCƒ„(1630).unk
+
+Gohan Definitivo Traje 1 -- ƒ‚ƒfE1633).unk
+Gohan Definitivo Traje 2 -- ƒ‚ƒfE1634).unk
+Gohan Definitivo Traje 3 (Vacio) -- ƒ‚ƒfE1635).unk
+Gohan Definitivo Traje 4 (Vacio) -- ƒ‚ƒfE1636).unk
+Gohan Definitivo Traje 1 dañado -- ƒ‚ƒfE1637).unk
+Gohan Definitivo Traje 2 dañado -- ƒ‚ƒfE1638).unk
+Gohan Definitivo Traje 3 dañado (Vacio) -- ƒ‚ƒfE1639).unk
+Gohan Definitivo Traje 4 dañado (Vacio) -- ƒ‚ƒfE1640).unk
+
+Piccolo Inicio Traje 1 -- ƒ‚E1643).unk
+Piccolo Inicio Traje 2 -- ƒ‚E1644).unk
+Piccolo Inicio Traje 3 (Vacio) -- ƒ‚E1645).unk
+Piccolo Inicio Traje 4 (Vacio) -- ƒ‚E1646).unk
+Piccolo Inicio Traje 1 dañado -- ƒ‚E1647).unk
+Piccolo Inicio Traje 2 dañado -- ƒ‚E1648).unk
+Piccolo Inicio Traje 3 dañado (Vacio) -- ƒ‚E1649).unk
+Piccolo Inicio Traje 4 dañado (Vacio) -- ƒ‚E1650).unk
+
+Piccolo Fin Traje 1 -- ƒ‚E1653).unk
+Piccolo Fin Traje 2 -- ƒ‚E1654).unk
+Piccolo Fin Traje 3 (Vacio) -- ƒ‚E1655).unk
+Piccolo Fin Traje 4 (Vacio) -- ƒ‚E1656).unk
+Piccolo Fin Traje 1 dañado -- ƒ‚E1657).unk
+Piccolo Fin Traje 2 dañado -- ƒ‚E1658).unk
+Piccolo Fin Traje 3 dañado (Vacio) -- ƒ‚E1659).unk
+Piccolo Fin Traje 4 dañado (Vacio) -- ƒ‚E1660).unk
+
+Nail Traje 1 -- unknow_01663.unk
+Nail Traje 2 -- unknow_01664.unk
+Nail Traje 3 (Vacio) -- unknow_01665.unk
+Nail Traje 4 (Vacio) -- unknow_01666.unk
+Nail Traje 1 dañado -- unknow_01667.unk
+Nail Traje 2 dañado -- unknow_01668.unk
+Nail Traje 3 dañado (Vacio) -- unknow_01669.unk
+Nail Traje 4 dañado (Vacio) -- unknow_01670.unk
+
+Krillin Traje 1 -- ƒ‚ƒfE1673).unk
+Krillin Traje 2 -- ƒ‚ƒfE1674).unk
+Krillin Traje 3 -- ƒ‚ƒfE1675).unk
+Krillin Traje 4 -- ƒ‚ƒfE1676).unk
+Krillin Traje 1 dañado -- ƒ‚ƒfE1677).unk
+Krillin Traje 2 dañado -- ƒ‚ƒfE1678).unk
+Krillin Traje 3 dañado -- ƒ‚ƒfE1679).unk
+Krillin Traje 4 dañado -- ƒ‚ƒfE1680).unk
+
+Yamcha Traje 1 -- ƒ‚ƒfE1683).unk
+Yamcha Traje 2 -- ƒ‚ƒfE1684).unk
+Yamcha Traje 3 -- ƒ‚ƒfE1685).unk
+Yamcha Traje 4 (Vacio) -- ƒ‚ƒfE1686).unk
+Yamcha Traje 1 dañado -- ƒ‚ƒfE1687).unk
+Yamcha Traje 2 dañado -- ƒ‚ƒfE1688).unk
+Yamcha Traje 3 dañado -- ƒ‚ƒfE1689).unk
+Yamcha Traje 4 dañado (Vacio) -- ƒ‚ƒfE1690).unk
+
+Tenshinhan Traje 1 -- unknow_01693.unk
+Tenshinhan Traje 2 -- unknow_01694.unk
+Tenshinhan Traje 3 (Vacio) -- unknow_01695.unk
+Tenshinhan Traje 4 (Vacio) -- unknow_01696.unk
+Tenshinhan Traje 1 dañado -- unknow_01697.unk
+Tenshinhan Traje 2 dañado -- unknow_01698.unk
+Tenshinhan Traje 3 dañado (Vacio) -- unknow_01699.unk
+Tenshinhan Traje 4 dañado (Vacio) -- unknow_01700.unk
+
+Chaos Traje 1 -- pa.unk
+Chaos Traje 2 -- pa(1704).unk
+Chaos Traje 3 (Vacio) -- pa(1705).unk
+Chaos Traje 4 (Vacio) -- pa(1706).unk
+Chaos Traje 1 dañado -- pa(1707).unk
+Chaos Traje 2 dañado -- pa(1708).unk
+Chaos Traje 3 dañado (Vacio) -- pa(1709).unk
+Chaos Traje 4 dañado (Vacio) -- pa(1710).unk
+
+Vegeta Explorador Traje 1 -- ƒ‚E1713).unk
+Vegeta Explorador Traje 2 -- ƒ‚E1714).unk
+Vegeta Explorador Traje 3 -- ƒ‚E1715).unk
+Vegeta Explorador Traje 4 -- ƒ‚E1716).unk
+Vegeta Explorador Traje 1 dañado -- ƒ‚E1717).unk
+Vegeta Explorador Traje 2 dañado -- ƒ‚E1718).unk
+Vegeta Explorador Traje 3 dañado -- ƒ‚E1719).unk
+Vegeta Explorador Traje 4 dañado -- ƒ‚E1720).unk
+
+Vegeta Mono Gigante Traje 1 -- unknow_01723.unk
+Vegeta Mono Gigante Traje 2 -- unknow_01724.unk
+Vegeta Mono Gigante Traje 3 -- unknow_01725.unk
+Vegeta Mono Gigante Traje 4 -- unknow_01726.unk
+Vegeta Mono Gigante Traje 1 dañado -- unknow_01727.unk
+Vegeta Mono Gigante Traje 2 dañado -- unknow_01728.unk
+Vegeta Mono Gigante Traje 3 dañado -- unknow_01729.unk
+Vegeta Mono Gigante Traje 4 dañado -- unknow_01730.unk
+
+Vegeta Normal Traje 1 -- ƒ‚E1733).unk
+Vegeta Normal Traje 2 -- ƒ‚E1734).unk
+Vegeta Normal Traje 3 (Vacio) --ƒ‚E1735).unk
+Vegeta Normal Traje 4 (Vacio) -- ƒ‚E1736).unk
+Vegeta Normal Traje 1 dañado -- ƒ‚E1737).unk
+Vegeta Normal Traje 2 dañado -- ƒ‚E1738).unk
+Vegeta Normal Traje 3 dañado (Vacio) -- ƒ‚E1739).unk
+Vegeta Normal Traje 4 dañado (Vacio) -- ƒ‚E1740).unk
+
+Vegeta SSJ1 Traje 1 -- ƒ‚E1743).unk
+Vegeta SSJ1 Traje 2 -- ƒ‚E1744).unk
+Vegeta SSJ1 Traje 3 (Vacio) --ƒ‚E1745).unk
+Vegeta SSJ1 Traje 4 (Vacio) -- ƒ‚E1746).unk
+Vegeta SSJ1 Traje 1 dañado -- ƒ‚E1747).unk
+Vegeta SSJ1 Traje 2 dañado -- ƒ‚E1748).unk
+Vegeta SSJ1 Traje 3 dañado (Vacio) -- ƒ‚E1749).unk
+Vegeta SSJ1 Traje 4 dañado (Vacio) -- ƒ‚E1750).unk
+
+Super Vegeta SSJ1 Traje 1 -- ƒ‚E1753).unk
+Super Vegeta SSJ1 Traje 2 -- ƒ‚E1754).unk
+Super Vegeta SSJ1 Traje 3 (Vacio) -- ƒ‚E1755).unk
+Super Vegeta SSJ1 Traje 4 (Vacio) -- ƒ‚E1756).unk
+Super Vegeta SSJ1 Traje 1 dañado -- ƒ‚E1757).unk
+Super Vegeta SSJ1 Traje 2 dañado -- ƒ‚E1758).unk
+Super Vegeta SSJ1 Traje 3 dañado (Vacio) -- ƒ‚E1759).unk
+Super Vegeta SSJ1 Traje 4 dañado (Vacio) -- ƒ‚E1760).unk
+
+Vegeta 2a forma Normal Traje 1 -- ƒ‚E1763).unk
+Vegeta 2a forma Normal Traje 2 -- ƒ‚E1764).unk
+Vegeta 2a forma Normal Traje 3 (Vacio) --ƒ‚E1765).unk
+Vegeta 2a forma Normal Traje 4 (Vacio) -- ƒ‚E1766).unk
+Vegeta 2a forma Normal Traje 1 dañado -- ƒ‚E1767).unk
+Vegeta 2a forma Normal Traje 2 dañado -- ƒ‚E1768).unk
+Vegeta 2a forma Normal Traje 3 dañado (Vacio) -- ƒ‚E1769).unk
+Vegeta 2a forma Normal Traje 4 dañado (Vacio) -- ƒ‚E1770).unk
+
+Vegeta 2a forma SSJ1 Traje 1 -- ƒ‚E1773).unk
+Vegeta 2a forma SSJ1 Traje 2 -- ƒ‚E1774).unk
+Vegeta 2a forma SSJ1 Traje 3 (Vacio) --ƒ‚E1775).unk
+Vegeta 2a forma SSJ1 Traje 4 (Vacio) -- ƒ‚E1776).unk
+Vegeta 2a forma SSJ1 Traje 1 dañado -- ƒ‚E1777).unk
+Vegeta 2a forma SSJ1 Traje 2 dañado -- ƒ‚E1778).unk
+Vegeta 2a forma SSJ1 Traje 3 dañado (Vacio) -- ƒ‚E1779).unk
+Vegeta 2a forma SSJ1 Traje 4 dañado (Vacio) -- ƒ‚E1780).unk
+
+Vegeta 2a forma SSJ2 Traje 1 -- ƒ‚E1783).unk
+Vegeta 2a forma SSJ2 Traje 2 -- ƒ‚E1784).unk
+Vegeta 2a forma SSJ2 Traje 3 (Vacio) --ƒ‚E1785).unk
+Vegeta 2a forma SSJ2 Traje 4 (Vacio) -- ƒ‚E1786).unk
+Vegeta 2a forma SSJ2 Traje 1 dañado -- ƒ‚E1787).unk
+Vegeta 2a forma SSJ2 Traje 2 dañado -- ƒ‚E1788).unk
+Vegeta 2a forma SSJ2 Traje 3 dañado (Vacio) -- ƒ‚E1789).unk
+Vegeta 2a forma SSJ2 Traje 4 dañado (Vacio) -- ƒ‚E1790).unk
+
+Majin Vegeta Traje 1 -- Eunk.unk
+Majin Vegeta Traje 2 -- E1794).unk
+Majin Vegeta Traje 3 (Vacio) -- E1795).unk
+Majin Vegeta Traje 4 (Vacio) -- E1796).unk
+Majin Vegeta Traje 1 dañado -- E1797).unk
+Majin Vegeta Traje 2 dañado -- E1798).unk
+Majin Vegeta Traje 3 dañado (Vacio) -- E1799).unk
+Majin Vegeta Traje 4 dañado (Vacio) -- E1800).unk
+
+Vegeta 2a forma SSJ4 Traje 1 -- ƒ‚E1803).unk
+Vegeta 2a forma SSJ4 Traje 2 -- ƒ‚E1804).unk
+Vegeta 2a forma SSJ4 Traje 3 (Vacio) -- ƒ‚E1805).unk
+Vegeta 2a forma SSJ4 Traje 4 (Vacio) -- ƒ‚E1806).unk
+Vegeta 2a forma SSJ4 Traje 1 dañado -- ƒ‚E1807).unk
+Vegeta 2a forma SSJ4 Traje 2 dañado -- ƒ‚E1808).unk
+Vegeta 2a forma SSJ4 Traje 3 dañado (Vacio) -- ƒ‚E1809).unk
+Vegeta 2a forma SSJ4 Traje 4 dañado (Vacio) -- ƒ‚E1810).unk
+
+Trunks del Futuro Normal Traje 1 -- E1813).unk
+Trunks del Futuro Normal Traje 2 -- E1814).unk
+Trunks del Futuro Normal Traje 3 (Vacio) -- E1815).unk
+Trunks del Futuro Normal Traje 4 (Vacio) -- E1816).unk
+Trunks del Futuro Normal Traje 1 dañado -- E1817).unk
+Trunks del Futuro Normal Traje 2 dañado -- E1818).unk
+Trunks del Futuro Normal Traje 3 dañado (Vacio) -- E1819).unk
+Trunks del Futuro Normal Traje 4 dañado (Vacio) -- E1820).unk
+
+Trunks del Futuro SSJ1 Traje 1 -- E1823).unk
+Trunks del Futuro SSJ1 Traje 2 -- E1824).unk
+Trunks del Futuro SSJ1 Traje 3 (Vacio) -- E1825).unk
+Trunks del Futuro SSJ1 Traje 4 (Vacio) -- E1826).unk
+Trunks del Futuro SSJ1 Traje 1 dañado -- E1827).unk
+Trunks del Futuro SSJ1 Traje 2 dañado -- E1828).unk
+Trunks del Futuro SSJ1 Traje 3 dañado (Vacio) -- E1829).unk
+Trunks del Futuro SSJ1 Traje 4 dañado (Vacio) -- E1830).unk
+
+Trunks Adulto Normal Traje 1 -- E1833).unk
+Trunks Adulto Normal Traje 2 -- E1834).unk
+Trunks Adulto Normal Traje 3 (Vacio) -- E1835).unk
+Trunks Adulto Normal Traje 4 (Vacio) -- E1836).unk
+Trunks Adulto Normal Traje 1 dañado -- E1837).unk
+Trunks Adulto Normal Traje 2 dañado -- E1838).unk
+Trunks Adulto Normal Traje 3 dañado (Vacio) -- E1839).unk
+Trunks Adulto Normal Traje 4 dañado (Vacio) -- E1840).unk
+
+Trunks Adulto SSJ1 Traje 1 -- E1843).unk
+Trunks Adulto SSJ1 Traje 2 -- E1844).unk
+Trunks Adulto SSJ1 Traje 3 (Vacio) -- E1845).unk
+Trunks Adulto SSJ1 Traje 4 (Vacio) -- E1846).unk
+Trunks Adulto SSJ1 Traje 1 dañado -- E1847).unk
+Trunks Adulto SSJ1 Traje 2 dañado -- E1848).unk
+Trunks Adulto SSJ1 Traje 3 dañado (Vacio) -- E1849).unk
+Trunks Adulto SSJ1 Traje 4 dañado (Vacio) -- E1850).unk
+
+Super Trunks Traje 1 -- E1853).unk
+Super Trunks Traje 2 -- E1854).unk
+Super Trunks Traje 3 (Vacio) -- E1855).unk
+Super Trunks Traje 4 (Vacio) -- E1856).unk
+Super Trunks Traje 1 dañado -- E1857).unk
+Super Trunks Traje 2 dañado -- E1858).unk
+Super Trunks Traje 3 dañado (Vacio) -- E1859).unk
+Super Trunks Traje 4 dañado (Vacio) -- E1860).unk
+
+Trunks niño Traje 1 -- E1863).unk
+Trunks niño Traje 2 -- E1864).unk
+Trunks niño Traje 3 (Vacio) -- E1865).unk
+Trunks niño Traje 4 (Vacio) -- E1866).unk
+Trunks niño Traje 1 dañado -- E1867).unk
+Trunks niño Traje 2 dañado -- E1868).unk
+Trunks niño Traje 3 dañado (Vacio) -- E1869).unk
+Trunks niño Traje 4 dañado (Vacio) -- E1870).unk
+
+Trunks niño SSJ1 Traje 1 -- E1873).unk
+Trunks niño SSJ1 Traje 2 -- E1874).unk
+Trunks niño SSJ1 Traje 3 (Vacio) -- E1875).unk
+Trunks niño SSJ1 Traje 4 (Vacio) -- E1876).unk
+Trunks niño SSJ1 Traje 1 dañado -- E1877).unk
+Trunks niño SSJ1 Traje 2 dañado -- E1878).unk
+Trunks niño SSJ1 Traje 3 dañado (Vacio) -- E1879).unk
+Trunks niño SSJ1 Traje 4 dañado (Vacio) -- E1880).unk
+
+Goten Traje 1 -- ƒ‚ƒfE1883).unk
+Goten Traje 2 -- ƒ‚ƒfE1884).unk
+Goten Traje 3 (Vacio) -- ƒ‚ƒfE1885).unk
+Goten Traje 4 (Vacio) -- ƒ‚ƒfE1886).unk
+Goten Traje 1 dañado -- ƒ‚ƒfE1887).unk
+Goten Traje 2 dañado -- ƒ‚ƒfE1888).unk
+Goten Traje 3 dañado (Vacio) -- ƒ‚ƒfE1889).unk
+Goten Traje 4 dañado (Vacio) -- ƒ‚ƒfE1890).unk
+
+Goten Traje 1 -- ƒ‚ƒfE1893).unk
+Goten Traje 2 -- ƒ‚ƒfE1894).unk
+Goten Traje 3 (Vacio) -- ƒ‚ƒfE1895).unk
+Goten Traje 4 (Vacio) -- ƒ‚ƒfE1896).unk
+Goten Traje 1 dañado -- ƒ‚ƒfE1897).unk
+Goten Traje 2 dañado -- ƒ‚ƒfE1898).unk
+Goten Traje 3 dañado (Vacio) -- ƒ‚ƒfE1899).unk
+Goten Traje 4 dañado (Vacio) -- ƒ‚ƒfE1900).unk
+
+Gotenks Traje 1 -- E1903).unk
+Gotenks Traje 2 -- E1904).unk
+Gotenks Traje 3 (Vacio) -- E1905).unk
+Gotenks Traje 4 (Vacio) -- E1906).unk
+Gotenks Traje 1 dañado -- E1907).unk
+Gotenks Traje 2 dañado -- E1908).unk
+Gotenks Traje 3 dañado (Vacio) -- E1909).unk
+Gotenks Traje 4 dañado (Vacio) -- E1910).unk
+
+Gotenks SSJ1 Traje 1 -- E1913).unk
+Gotenks SSJ1 Traje 2 -- E1914).unk
+Gotenks SSJ1 Traje 3 (Vacio) -- E1915).unk
+Gotenks SSJ1 Traje 4 (Vacio) -- E1916).unk
+Gotenks SSJ1 Traje 1 dañado -- E1917).unk
+Gotenks SSJ1 Traje 2 dañado -- E1918).unk
+Gotenks SSJ1 Traje 3 dañado (Vacio) -- E1919).unk
+Gotenks SSJ1 Traje 4 dañado (Vacio) -- E1920).unk
+
+Gotenks SSJ3 Traje 1 -- E1923).unk
+Gotenks SSJ3 Traje 2 -- E1924).unk
+Gotenks SSJ3 Traje 3 (Vacio) -- E1925).unk
+Gotenks SSJ3 Traje 4 (Vacio) -- E1926).unk
+Gotenks SSJ3 Traje 1 dañado -- E1927).unk
+Gotenks SSJ3 Traje 2 dañado -- E1928).unk
+Gotenks SSJ3 Traje 3 dañado (Vacio) -- E1929).unk
+Gotenks SSJ3 Traje 4 dañado (Vacio) -- E1930).unk
+
+Vegito Traje 1 -- ƒ‚E1933).unk
+Vegito Traje 2 -- ƒ‚E1934).unk
+Vegito Traje 3 (Vacio) -- ƒ‚E1935).unk
+Vegito Traje 4 (Vacio) -- ƒ‚E1936).unk
+Vegito Traje 1 dañado -- ƒ‚E1937).unk
+Vegito Traje 2 dañado -- ƒ‚E1938).unk
+Vegito Traje 3 dañado (Vacio) -- ƒ‚E1939).unk
+Vegito Traje 4 dañado (Vacio) -- ƒ‚E1940).unk
+
+Vegito SSJ Traje 1 -- ƒ‚E1943).unk
+Vegito SSJ Traje 2 -- ƒ‚E1944).unk
+Vegito SSJ Traje 3 (Vacio) -- ƒ‚E1945).unk
+Vegito SSJ Traje 4 (Vacio) -- ƒ‚E1946).unk
+Vegito SSJ Traje 1 dañado -- ƒ‚E1947).unk
+Vegito SSJ Traje 2 dañado -- ƒ‚E1948).unk
+Vegito SSJ Traje 3 dañado (Vacio) -- ƒ‚E1949).unk
+Vegito SSJ Traje 4 dañado (Vacio) -- ƒ‚E1950).unk
+
+Gogeta SSJ Traje 1 -- ƒ‚E1953).unk
+Gogeta SSJ Traje 2 -- ƒ‚E1954).unk
+Gogeta SSJ Traje 3 (Vacio) -- ƒ‚E1955).unk
+Gogeta SSJ Traje 4 (Vacio) -- ƒ‚E1956).unk
+Gogeta SSJ Traje 1 dañado -- ƒ‚E1957).unk
+Gogeta SSJ Traje 2 dañado -- ƒ‚E1958).unk
+Gogeta SSJ Traje 3 dañado (Vacio) -- ƒ‚E1959).unk
+Gogeta SSJ Traje 4 dañado (Vacio) -- ƒ‚E1960).unk
+
+Gogeta SSJ4 Traje 1 -- ƒ‚E1963).unk
+Gogeta SSJ4 Traje 2 -- ƒ‚E1964).unk
+Gogeta SSJ4 Traje 3 (Vacio) -- ƒ‚E1965).unk
+Gogeta SSJ4 Traje 4 (Vacio) -- ƒ‚E1966).unk
+Gogeta SSJ4 Traje 1 dañado -- ƒ‚E1967).unk
+Gogeta SSJ4 Traje 2 dañado -- ƒ‚E1968).unk
+Gogeta SSJ4 Traje 3 dañado (Vacio) -- ƒ‚E1969).unk
+Gogeta SSJ4 Traje 4 dañado (Vacio) -- ƒ‚E1970).unk
+
+Mister Satan Traje 1 -- ƒ~ƒXƒ^[EƒTƒ^.unk
+Mister Satan Traje 2 -- ƒ~ƒXƒ^[EƒTƒ^(1974).unk
+Mister Satan Traje 3 (Vacio) -- ƒ~ƒXƒ^[EƒTƒ^(1975).unk
+Mister Satan Traje 4 (Vacio) -- ƒ~ƒXƒ^[EƒTƒ^(1976).unk
+Mister Satan Traje 1 dañado -- ƒ~ƒXƒ^[EƒTƒ^(1977).unk
+Mister Satan Traje 2 dañado -- ƒ~ƒXƒ^[EƒTƒ^(1978).unk
+Mister Satan Traje 3 dañado (Vacio) -- ƒ~ƒXƒ^[EƒTƒ^(1979).unk
+Mister Satan Traje 4 dañado (Vacio) -- ƒ~ƒXƒ^[EƒTƒ^(1980).unk
+
+Videl Traje 1 -- ƒ‚ƒfE1983).unk
+Videl Traje 2 -- ƒ‚ƒfE1984).unk
+Videl Traje 3 -- ƒ‚ƒfE1985).unk
+Videl Traje 4 (Vacio) -- ƒ‚ƒfE1986).unk
+Videl Traje 1 dañado -- ƒ‚ƒfE1987).unk
+Videl Traje 2 dañado -- ƒ‚ƒfE1988).unk
+Videl Traje 3 dañado -- ƒ‚ƒfE1989).unk
+Videl Traje 4 dañado (Vacio) -- ƒ‚ƒfE1990).unk
+
+Videl Gran Saiyaman Traje 1 -- ƒOƒŒ[ƒgƒTƒCƒ„(1993).unk
+Videl Gran Saiyaman Traje 2 -- ƒOƒŒ[ƒgƒTƒCƒ„(1994).unk
+Videl Gran Saiyaman Traje 3 -- ƒOƒŒ[ƒgƒTƒCƒ„(1995).unk
+Videl Gran Saiyaman Traje 4 (Vacio) -- ƒOƒŒ[ƒgƒTƒCƒ„(1996).unk
+Videl Gran Saiyaman Traje 1 dañado -- ƒOƒŒ[ƒgƒTƒCƒ„(1997).unk
+Videl Gran Saiyaman Traje 2 dañado -- ƒOƒŒ[ƒgƒTƒCƒ„(1998).unk
+Videl Gran Saiyaman Traje 3 dañado -- ƒOƒŒ[ƒgƒTƒCƒ„(1999).unk
+Videl Gran Saiyaman Traje 4 dañado (Vacio) -- ƒOƒŒ[ƒgƒTƒCƒ„(2000).unk
+
+Kaioshin Traje 1 -- unknow_02003.unk
+Kaioshin Traje 2 -- unknow_02004.unk
+Kaioshin Traje 3 (Vacio) -- unknow_02005.unk
+Kaioshin Traje 4 (Vacio) -- unknow_02006.unk
+Kaioshin Traje 1 dañado -- unknow_02007.unk
+Kaioshin Traje 2 dañado -- unknow_02008.unk
+Kaioshin Traje 3 dañado (Vacio) -- unknow_02009.unk
+Kaioshin Traje 4 dañado (Vacio) -- unknow_02010.unk
+
+Kibitoshin Traje 1 -- ƒ‚ƒfE2013).unk
+Kibitoshin Traje 2 -- ƒ‚ƒfE2014).unk
+Kibitoshin Traje 3 (Vacio) -- ƒ‚ƒfE2015).unk
+Kibitoshin Traje 4 (Vacio) -- ƒ‚ƒfE2016).unk
+Kibitoshin Traje 1 dañado -- ƒ‚ƒfE2017).unk
+Kibitoshin Traje 2 dañado -- ƒ‚ƒfE2018).unk
+Kibitoshin Traje 3 dañado (Vacio) -- ƒ‚ƒfE2019).unk
+Kibitoshin Traje 4 dañado (Vacio) -- ƒ‚ƒfE2020).unk
+
+Yajirobe Traje 1 -- ƒ‚E2023).unk
+Yajirobe Traje 2 -- ƒ‚E2024).unk
+Yajirobe Traje 3 (Vacio) -- ƒ‚E2025).unk
+Yajirobe Traje 4 (Vacio) -- ƒ‚E2026).unk
+Yajirobe Traje 1 dañado -- ƒ‚E2027).unk
+Yajirobe Traje 2 dañado -- ƒ‚E2028).unk
+Yajirobe Traje 3 dañado (Vacio) -- ƒ‚E2029).unk
+Yajirobe Traje 4 dañado (Vacio) -- ƒ‚E2030).unk
+
+Paikuhan Traje 1 -- E2033).unk
+Paikuhan Traje 2 -- E2034).unk
+Paikuhan Traje 3 (Vacio) -- E2035).unk
+Paikuhan Traje 4 (Vacio) -- E2036).unk 
+Paikuhan Traje 1 dañado -- E2037).unk
+Paikuhan Traje 2 dañado -- E2038).unk
+Paikuhan Traje 3 dañado (Vacio) -- E2039).unk
+Paikuhan Traje 4 dañado (Vacio) -- E2040).unk
+
+Tapion Traje 1 -- ƒ‚ƒfE2043).unk
+Tapion Traje 2 -- ƒ‚ƒfE2044).unk
+Tapion Traje 3 (Vacio) -- ƒ‚ƒfE2045).unk
+Tapion Traje 4 (Vacio) -- ƒ‚ƒfE2046).unk
+Tapion Traje 1 dañado -- ƒ‚ƒfE2047).unk
+Tapion Traje 2 dañado -- ƒ‚ƒfE2048).unk
+Tapion Traje 3 dañado (Vacio) -- ƒ‚ƒfE2049).unk
+Tapion Traje 4 dañado (Vacio) -- ƒ‚ƒfE2050).unk
+
+Pan Traje 1 -- pa(2053).unk
+Pan Traje 2 -- pa(2054).unk
+Pan Traje 3 (Vacio) -- pa(2055).unk
+Pan Traje 4 (Vacio) -- pa(2056).unk
+Pan Traje 1 dañado -- pa(2057).unk
+Pan Traje 2 dañado -- pa(2058).unk
+Pan Traje 3 dañado (Vacio) -- pa(2059).unk
+Pan Traje 4 dañado (Vacio) -- pa(2060).unk
+
+Uub Traje 1 -- ƒ‚ƒfE2063).unk
+Uub Traje 2 -- ƒ‚ƒfE2064).unk
+Uub Traje 3 (Vacio) -- ƒ‚ƒfE2065).unk
+Uub Traje 4 (Vacio) -- ƒ‚ƒfE2066).unk
+Uub Traje 1 dañado -- ƒ‚ƒfE2067).unk
+Uub Traje 2 dañado -- ƒ‚ƒfE2068).unk
+Uub Traje 3 dañado (Vacio) -- ƒ‚ƒfE2069).unk
+Uub Traje 4 dañado (Vacio) -- ƒ‚ƒfE2070).unk
+
+Majuub Traje 1 -- ƒ‚ƒfE2073).unk
+Majuub Traje 2 -- ƒ‚ƒfE2074).unk
+Majuub Traje 3 (Vacio) -- ƒ‚ƒfE2075).unk
+Majuub Traje 4 (Vacio) -- ƒ‚ƒfE2076).unk
+Majuub Traje 1 dañado -- ƒ‚ƒfE2077).unk
+Majuub Traje 2 dañado -- ƒ‚ƒfE2078).unk
+Majuub Traje 3 dañado (Vacio) -- ƒ‚ƒfE2079).unk
+Majuub Traje 4 dañado (Vacio) -- ƒ‚ƒfE2080).unk
+
+Maestro Roshi Traje 1 -- ƒ‚ƒfE2083).unk
+Maestro Roshi Traje 2 -- ƒ‚ƒfE2084).unk
+Maestro Roshi Traje 3 -- ƒ‚ƒfE2085).unk
+Maestro Roshi Traje 4 (Vacio) -- ƒ‚ƒfE2086).unk
+Maestro Roshi Traje 1 dañado -- ƒ‚ƒfE2087).unk
+Maestro Roshi Traje 2 dañado -- ƒ‚ƒfE2088).unk
+Maestro Roshi Traje 3 dañado -- ƒ‚ƒfE2089).unk
+Maestro Roshi Traje 4 dañado (Vacio) -- ƒ‚ƒfE2090).unk
+
+Maestro Roshi Poder máximo Traje 1 -- ƒ‚ƒfE2093).unk
+Maestro Roshi Poder máximo Traje 2 -- ƒ‚ƒfE2094).unk
+Maestro Roshi Poder máximo Traje 3 -- ƒ‚ƒfE2095).unk
+Maestro Roshi Poder máximo Traje 4 (Vacio) -- ƒ‚ƒfE2096).unk
+Maestro Roshi Poder máximo Traje 1 dañado -- ƒ‚ƒfE2097).unk
+Maestro Roshi Poder máximo Traje 2 dañado -- ƒ‚ƒfE2098).unk
+Maestro Roshi Poder máximo Traje 3 dañado -- ƒ‚ƒfE2099).unk
+Maestro Roshi Poder máximo Traje 4 dañado (Vacio) -- ƒ‚ƒfE2100).unk
+
+Abuelo Son Gohan Traje 1 -- unknow_02103.unk
+Abuelo Son Gohan Traje 2 -- unknow_02104.unk
+Abuelo Son Gohan Traje 3 (Vacio) -- unknow_02105.unk
+Abuelo Son Gohan Traje 4 (Vacio) -- unknow_02106.unk
+Abuelo Son Gohan Traje 1 dañado -- unknow_02107.unk
+Abuelo Son Gohan Traje 2 dañado -- unknow_02108.unk
+Abuelo Son Gohan Traje 3 dañado (Vacio) -- unknow_02109.unk
+Abuelo Son Gohan Traje 4 dañado (Vacio) -- unknow_02110.unk
+
+Nam Traje 1 -- pa(2113).unk
+Nam Traje 2 -- pa(2114).unk
+Nam Traje 3 (Vacio) -- pa(2115).unk
+Nam Traje 4 (Vacio) -- pa(2116).unk
+Nam Traje 1 dañado -- pa(2117).unk
+Nam Traje 2 dañado -- pa(2118).unk
+Nam Traje 3 dañado (Vacio) -- pa(2119).unk
+Nam Traje 4 dañado (Vacio) -- pa(2120).unk
+
+Androide número 8 Traje 1 -- ƒ‚E2123).unk
+Androide número 8 Traje 2 -- ƒ‚E2124).unk
+Androide número 8 Traje 3 (Vacio) -- ƒ‚E2125).unk
+Androide número 8 Traje 4 (Vacio) -- ƒ‚E2126).unk
+Androide número 8 Traje 1 dañado -- ƒ‚E2127).unk
+Androide número 8 Traje 2 dañado -- ƒ‚E2128).unk
+Androide número 8 Traje 3 dañado (Vacio) -- ƒ‚E2129).unk
+Androide número 8 Traje 4 dañado (Vacio) -- ƒ‚E2130).unk
+
+Rey Vegeta Traje 1 -- E2133).unk
+Rey Vegeta Traje 2 -- E2134).unk
+Rey Vegeta Traje 3 (Vacio) -- E2135).unk
+Rey Vegeta Traje 4 (Vacio) -- E2136).unk
+Rey Vegeta Traje 1 dañado -- E2137).unk
+Rey Vegeta Traje 2 dañado -- E2138).unk
+Rey Vegeta Traje 3 dañado (Vacio) -- E2139).unk
+Rey Vegeta Traje 4 dañado (Vacio) -- E2140).unk
+
+Rey Vegeta Mono Gigante Traje 1 -- E2143).unk
+Rey Vegeta Mono Gigante Traje 2 -- E2144).unk
+Rey Vegeta Mono Gigante Traje 3 (Vacio) -- E2145).unk
+Rey Vegeta Mono Gigante Traje 4 (Vacio) -- E2146).unk
+Rey Vegeta Mono Gigante Traje 1 dañado -- E2147).unk
+Rey Vegeta Mono Gigante Traje 2 dañado -- E2148).unk
+Rey Vegeta Mono Gigante Traje 3 dañado (Vacio) -- E2149).unk
+Rey Vegeta Mono Gigante Traje 4 dañado (Vacio) -- E2150).unk
+
+Bardock Traje 1 -- E2153).unk
+Bardock Traje 2 -- E2154).unk
+Bardock Traje 3 (Vacio) -- E2155).unk
+Bardock Traje 4 (Vacio) -- E2156).unk
+Bardock Traje 1 dañado -- E2157).unk
+Bardock Traje 2 dañado -- E2158).unk
+Bardock Traje 3 dañado (Vacio) -- E2159).unk
+Bardock Traje 4 dañado (Vacio) -- E2160).unk
+
+Bardock Mono Gigante Traje 1 -- E2163).unk
+Bardock Mono Gigante Traje 2 -- E2164).unk
+Bardock Mono Gigante Traje 3 (Vacio) -- E2165).unk
+Bardock Mono Gigante Traje 4 (Vacio) -- E2166).unk
+Bardock Mono Gigante Traje 1 dañado -- E2167).unk
+Bardock Mono Gigante Traje 2 dañado -- E2168).unk
+Bardock Mono Gigante Traje 3 dañado (Vacio) -- E2169).unk
+Bardock Mono Gigante Traje 4 dañado (Vacio) -- E2170).unk
+
+Fasha Traje 1 -- ƒ‚ƒfE2173).unk
+Fasha Traje 2 -- ƒ‚ƒfE2174).unk
+Fasha Traje 3 (Vacio) -- ƒ‚ƒfE2175).unk
+Fasha Traje 4 (Vacio) -- ƒ‚ƒfE2176).unk
+Fasha Traje 1 dañado -- ƒ‚ƒfE2177).unk
+Fasha Traje 2 dañado -- ƒ‚ƒfE2178).unk
+Fasha Traje 3 dañado (Vacio) -- ƒ‚ƒfE2179).unk
+Fasha Traje 4 dañado (Vacio) -- ƒ‚ƒfE2180).unk
+
+Fasha Mono Gigante Traje 1 -- ƒ‚ƒfE2183).unk
+Fasha Mono Gigante Traje 2 -- ƒ‚ƒfE2184).unk
+Fasha Mono Gigante Traje 3 (Vacio) -- ƒ‚ƒfE2185).unk
+Fasha Mono Gigante Traje 4 (Vacio) -- ƒ‚ƒfE2186).unk
+Fasha Mono Gigante Traje 1 dañado -- ƒ‚ƒfE2187).unk
+Fasha Mono Gigante Traje 2 dañado -- ƒ‚ƒfE2188).unk
+Fasha Mono Gigante Traje 3 dañado (Vacio) -- ƒ‚ƒfE2189).unk
+Fasha Mono Gigante Traje 4 dañado (Vacio) -- ƒ‚ƒfE2190).unk
+
+Raditz Traje 1 -- E2193).unk
+Raditz Traje 2 -- E2194).unk
+Raditz Traje 3 (Vacio) -- E2195).unk
+Raditz Traje 4 (Vacio) -- E2196).unk
+Raditz Traje 1 dañado -- E2197).unk
+Raditz Traje 2 dañado -- E2198).unk
+Raditz Traje 3 dañado (Vacio) -- E2199).unk
+Raditz Traje 4 dañado (Vacio) -- E2200).unk
+
+Raditz Mono Gigante Traje 1 -- E2203).unk
+Raditz Mono Gigante Traje 2 -- E2204).unk
+Raditz Mono Gigante Traje 3 (Vacio) -- E2205).unk
+Raditz Mono Gigante Traje 4 (Vacio) -- E2206).unk
+Raditz Mono Gigante Traje 1 dañado -- E2207).unk
+Raditz Mono Gigante Traje 2 dañado -- E2208).unk
+Raditz Mono Gigante Traje 3 dañado (Vacio) -- E2209).unk
+Raditz Mono Gigante Traje 4 dañado (Vacio) -- E2210).unk
+
+Saibaiman Traje 1 -- ƒ‚ƒfE2213).unk
+Saibaiman Traje 2 -- ƒ‚ƒfE2214).unk
+Saibaiman Traje 3 (Vacio) -- ƒ‚ƒfE2215).unk
+Saibaiman Traje 4 (Vacio) -- ƒ‚ƒfE2216).unk
+Saibaiman Traje 1 dañado -- ƒ‚ƒfE2217).unk
+Saibaiman Traje 2 dañado -- ƒ‚ƒfE2218).unk
+Saibaiman Traje 3 dañado (Vacio) -- ƒ‚ƒfE2219).unk
+Saibaiman Traje 4 dañado (Vacio) -- ƒ‚ƒfE2220).unk
+
+Nappa Traje 1 -- ƒ‚ƒfE2223).unk
+Nappa Traje 2 -- ƒ‚ƒfE2224).unk
+Nappa Traje 3 (Vacio) -- ƒ‚ƒfE2225).unk
+Nappa Traje 4 (Vacio) -- ƒ‚ƒfE2226).unk
+Nappa Traje 1 dañado -- ƒ‚ƒfE2227).unk
+Nappa Traje 2 dañado -- ƒ‚ƒfE2228).unk
+Nappa Traje 3 dañado (Vacio) -- ƒ‚ƒfE2229).unk
+Nappa Traje 4 dañado (Vacio) -- ƒ‚ƒfE2230).unk
+
+Nappa Mono Gigante Traje 1 -- ƒ‚ƒfE2233).unk
+Nappa Mono Gigante Traje 2 -- ƒ‚ƒfE2234).unk
+Nappa Mono Gigante Traje 3 (Vacio) -- ƒ‚ƒfE2235).unk
+Nappa Mono Gigante Traje 4 (Vacio) -- ƒ‚ƒfE2236).unk
+Nappa Mono Gigante Traje 1 dañado -- ƒ‚ƒfE2237).unk
+Nappa Mono Gigante Traje 2 dañado -- ƒ‚ƒfE2238).unk
+Nappa Mono Gigante Traje 3 dañado (Vacio) -- ƒ‚ƒfE2239).unk
+Nappa Mono Gigante Traje 4 dañado (Vacio) -- ƒ‚ƒfE2240).unk
+
+Zarbon Traje 1 -- ƒ‚E2243).unk
+Zarbon Traje 2 -- ƒ‚E2244).unk
+Zarbon Traje 3 (Vacio) -- ƒ‚E2245).unk
+Zarbon Traje 4 (Vacio) -- ƒ‚E2246).unk
+Zarbon Traje 1 dañado -- ƒ‚E2247).unk
+Zarbon Traje 2 dañado -- ƒ‚E2248).unk
+Zarbon Traje 3 dañado (Vacio) -- ƒ‚E2249).unk
+Zarbon Traje 4 dañado (Vacio) -- ƒ‚E2250).unk
+
+Zarbon Transformado Traje 1 -- ƒ‚E2253).unk
+Zarbon Transformado Traje 2 -- ƒ‚E2254).unk
+Zarbon Transformado Traje 3 (Vacio) -- ƒ‚E2255).unk
+Zarbon Transformado Traje 4 (Vacio) -- ƒ‚E2256).unk
+Zarbon Transformado Traje 1 dañado -- ƒ‚E2257).unk
+Zarbon Transformado Traje 2 dañado -- ƒ‚E2258).unk
+Zarbon Transformado Traje 3 dañado (Vacio) -- ƒ‚E2259).unk
+Zarbon Transformado Traje 4 dañado (Vacio) -- ƒ‚E2260).unk
+
+Dodoria Traje 1 -- ƒ‚ƒfE2263).unk
+Dodoria Traje 2 -- ƒ‚ƒfE2264).unk
+Dodoria Traje 3 (Vacio) -- ƒ‚ƒfE2265).unk
+Dodoria Traje 4 (Vacio) -- ƒ‚ƒfE2266).unk
+Dodoria Traje 1 dañado -- ƒ‚ƒfE2267).unk
+Dodoria Traje 2 dañado -- ƒ‚ƒfE2268).unk
+Dodoria Traje 3 dañado (Vacio) -- ƒ‚ƒfE2269).unk
+Dodoria Traje 4 dañado (Vacio) -- ƒ‚ƒfE2270).unk
+
+Cui Traje 1 -- unknow_02273.unk
+Cui Traje 2 -- unknow_02274.unk
+Cui Traje 3 (Vacio) -- unknow_02275.unk
+Cui Traje 4 (Vacio) -- unknow_02276.unk
+Cui Traje 1 dañado -- unknow_02277.unk
+Cui Traje 2 dañado -- unknow_02278.unk
+Cui Traje 3 dañado (Vacio) -- unknow_02279.unk
+Cui Traje 4 dañado (Vacio) -- unknow_02280.unk
+
+Ginyu Traje 1 -- ƒ‚ƒfE2283).unk
+Ginyu Traje 2 -- ƒ‚ƒfE2284).unk
+Ginyu Traje 3 (Vacio) -- ƒ‚ƒfE2285).unk
+Ginyu Traje 4 (Vacio) -- ƒ‚ƒfE2286).unk
+Ginyu Traje 1 dañado -- ƒ‚ƒfE2287).unk
+Ginyu Traje 2 dañado -- ƒ‚ƒfE2288).unk
+Ginyu Traje 3 dañado (Vacio) -- ƒ‚ƒfE2289).unk
+Ginyu Traje 4 dañado (Vacio) -- ƒ‚ƒfE2290).unk
+
+Recoom Traje 1 -- ƒ‚ƒfE2293).unk
+Recoom Traje 2 -- ƒ‚ƒfE2294).unk
+Recoom Traje 3 (Vacio) -- ƒ‚ƒfE2295).unk
+Recoom Traje 4 (Vacio) -- ƒ‚ƒfE2296).unk
+Recoom Traje 1 dañado -- ƒ‚ƒfE2297).unk
+Recoom Traje 2 dañado -- ƒ‚ƒfE2298).unk
+Recoom Traje 3 dañado (Vacio) -- ƒ‚ƒfE2299).unk
+Recoom Traje 4 dañado (Vacio) -- ƒ‚ƒfE2300).unk
+
+Burter Traje 1 -- unknow_02303.unk
+Burter Traje 2 -- unknow_02304.unk
+Burter Traje 3 (Vacio) -- unknow_02305.unk
+Burter Traje 4 (Vacio) -- unknow_02306.unk
+Burter Traje 1 dañado -- unknow_02307.unk
+Burter Traje 2 dañado -- unknow_02308.unk
+Burter Traje 3 dañado (Vacio) -- unknow_02309.unk
+Burter Traje 4 dañado (Vacio) -- unknow_02310.unk
+
+Jeece Traje 1 -- unknow_02313.unk
+Jeece Traje 2 -- unknow_02314.unk
+Jeece Traje 3 (Vacio) -- unknow_02315.unk
+Jeece Traje 4 (Vacio) -- unknow_02316.unk
+Jeece Traje 1 dañado -- unknow_02317.unk
+Jeece Traje 2 dañado -- unknow_02318.unk
+Jeece Traje 3 dañado (Vacio) -- unknow_02319.unk
+Jeece Traje 4 dañado (Vacio) -- unknow_02320.unk
+
+Guldo Traje 1 -- unknow_02323.unk
+Guldo Traje 2 -- unknow_02324.unk
+Guldo Traje 3 (Vacio) -- unknow_02325.unk
+Guldo Traje 4 (Vacio) -- unknow_02326.unk
+Guldo Traje 1 dañado -- unknow_02327.unk
+Guldo Traje 2 dañado -- unknow_02328.unk
+Guldo Traje 3 dañado (Vacio) -- unknow_02329.unk
+Guldo Traje 4 dañado (Vacio) -- unknow_02330.unk
+
+Freezer Forma 1 Traje 1 -- ƒ‚E2333).unk
+Freezer Forma 1 Traje 2 -- ƒ‚E2334).unk
+Freezer Forma 1 Traje 3 (Vacio) -- ƒ‚E2335).unk
+Freezer Forma 1 Traje 4 (Vacio) -- ƒ‚E2336).unk
+Freezer Forma 1 Traje 1 dañado -- ƒ‚E2337).unk
+Freezer Forma 1 Traje 2 dañado -- ƒ‚E2338).unk
+Freezer Forma 1 Traje 3 dañado (Vacio) -- ƒ‚E2339).unk
+Freezer Forma 1 Traje 4 dañado (Vacio) -- ƒ‚E2340).unk
+
+Freezer Forma 2 Traje 1 -- ƒ‚E2343).unk
+Freezer Forma 2 Traje 2 -- ƒ‚E2344).unk
+Freezer Forma 2 Traje 3 (Vacio) -- ƒ‚E2345).unk
+Freezer Forma 2 Traje 4 (Vacio) -- ƒ‚E2346).unk
+Freezer Forma 2 Traje 1 dañado -- ƒ‚E2347).unk
+Freezer Forma 2 Traje 2 dañado -- ƒ‚E2348).unk
+Freezer Forma 2 Traje 3 dañado (Vacio) -- ƒ‚E2349).unk
+Freezer Forma 2 Traje 4 dañado (Vacio) -- ƒ‚E2350).unk
+
+Freezer Forma 3 Traje 1 -- ƒ‚E2353).unk
+Freezer Forma 3 Traje 2 -- ƒ‚E2354).unk
+Freezer Forma 3 Traje 3 (Vacio) -- ƒ‚E2355).unk
+Freezer Forma 3 Traje 4 (Vacio) -- ƒ‚E2356).unk
+Freezer Forma 3 Traje 1 dañado -- ƒ‚E2357).unk
+Freezer Forma 3 Traje 2 dañado -- ƒ‚E2358).unk
+Freezer Forma 3 Traje 3 dañado (Vacio) -- ƒ‚E2359).unk
+Freezer Forma 3 Traje 4 dañado (Vacio) -- ƒ‚E2360).unk
+
+Freezer Forma Final Traje 1 -- ƒ‚E2363).unk
+Freezer Forma Final Traje 2 -- ƒ‚E2364).unk
+Freezer Forma Final Traje 3 (Vacio) -- ƒ‚E2365).unk
+Freezer Forma Final Traje 4 (Vacio) -- ƒ‚E2366).unk
+Freezer Forma Final Traje 1 dañado -- ƒ‚E2367).unk
+Freezer Forma Final Traje 2 dañado -- ƒ‚E2368).unk
+Freezer Forma Final Traje 3 dañado (Vacio) -- ƒ‚E2369).unk
+Freezer Forma Final Traje 4 dañado (Vacio) -- ƒ‚E2370).unk
+
+Freezer Poder al 100% Traje 1 -- ƒ‚E2373).unk
+Freezer Poder al 100% Traje 2 -- ƒ‚E2374).unk
+Freezer Poder al 100% Traje 3 (Vacio) -- ƒ‚E2375).unk
+Freezer Poder al 100% Traje 4 (Vacio) -- ƒ‚E2376).unk
+Freezer Poder al 100% Traje 1 dañado -- ƒ‚E2377).unk
+Freezer Poder al 100% Traje 2 dañado -- ƒ‚E2378).unk
+Freezer Poder al 100% Traje 3 dañado (Vacio) -- ƒ‚E2379).unk
+Freezer Poder al 100% Traje 4 dañado (Vacio) -- ƒ‚E2380).unk
+
+Mecha Freezer Traje 1 -- ƒ‚E2383).unk
+Mecha Freezer Traje 2 -- ƒ‚E2384).unk
+Mecha Freezer Traje 3 (Vacio) -- ƒ‚E2385).unk
+Mecha Freezer Traje 4 (Vacio) -- ƒ‚E2386).unk
+Mecha Freezer Traje 1 dañado -- ƒ‚E2387).unk
+Mecha Freezer Traje 2 dañado -- ƒ‚E2388).unk
+Mecha Freezer Traje 3 dañado (Vacio) -- ƒ‚E2389).unk
+Mecha Freezer Traje 4 dañado (Vacio) -- ƒ‚E2390).unk
+
+Rey Cold Traje 1 -- ƒ‚E2393).unk
+Rey Cold Traje 2 -- ƒ‚E2394).unk
+Rey Cold Traje 3 (Vacio) -- ƒ‚E2395).unk
+Rey Cold Traje 4 (Vacio) -- ƒ‚E2396).unk
+Rey Cold Traje 1 dañado -- ƒ‚E2397).unk
+Rey Cold Traje 2 dañado -- ƒ‚E2398).unk
+Rey Cold Traje 3 dañado (Vacio) -- ƒ‚E2399).unk
+Rey Cold Traje 4 dañado (Vacio) -- ƒ‚E2400).unk
+
+Apple Traje 1 -- ƒ‚ƒfE2403).unk
+Apple Traje 2 -- ƒ‚ƒfE2404).unk
+Apple Traje 3 (Vacio) -- ƒ‚ƒfE2405).unk
+Apple Traje 4 (Vacio) -- ƒ‚ƒfE2406).unk
+Apple Traje 1 dañado -- ƒ‚ƒfE2407).unk
+Apple Traje 2 dañado -- ƒ‚ƒfE2408).unk
+Apple Traje 3 dañado (Vacio) -- ƒ‚ƒfE2409).unk
+Apple Traje 4 dañado (Vacio) -- ƒ‚ƒfE2410).unk
+
+Soldado de Freezer Traje 1 -- ƒtƒŠ[ƒUŒR•ºm.unk
+Soldado de Freezer Traje 2 -- ƒtƒŠ[ƒUŒR•ºm(2414).unk
+Soldado de Freezer Traje 3 (Vacio) -- ƒtƒŠ[ƒUŒR•ºm(2415).unk
+Soldado de Freezer Traje 4 (Vacio) -- ƒtƒŠ[ƒUŒR•ºm(2416).unk
+Soldado de Freezer Traje 1 dañado -- ƒtƒŠ[ƒUŒR•ºm(2417).unk
+Soldado de Freezer Traje 2 dañado -- ƒtƒŠ[ƒUŒR•ºm(2418).unk
+Soldado de Freezer Traje 3 dañado (Vacio) -- ƒtƒŠ[ƒUŒR•ºm(2419).unk
+Soldado de Freezer Traje 4 dañado (Vacio) -- ƒtƒŠ[ƒUŒR•ºm(2420).unk
+
+Androide 16 Traje 1 -- E2423).unk
+Androide 16 Traje 2 -- E2424).unk
+Androide 16 Traje 3 (Vacio) -- E2425).unk
+Androide 16 Traje 4 (Vacio) -- E2426).unk
+Androide 16 Traje 1 dañado -- E2427).unk
+Androide 16 Traje 2 dañado -- E2428).unk
+Androide 16 Traje 3 dañado (Vacio) -- E2429).unk
+Androide 16 Traje 4 dañado (Vacio) -- E2430).unk
+
+Androide 17 Traje 1 -- E2433).unk
+Androide 17 Traje 2 -- E2434).unk
+Androide 17 Traje 3 (Vacio) -- E2435).unk
+Androide 17 Traje 4 (Vacio) -- E2436).unk
+Androide 17 Traje 1 dañado -- E2437).unk
+Androide 17 Traje 2 dañado -- E2438).unk
+Androide 17 Traje 3 dañado (Vacio) -- E2439).unk
+Androide 17 Traje 4 dañado (Vacio) -- E2440).unk
+
+Androide 18 Traje 1 -- E2443).unk
+Androide 18 Traje 2 -- E2444).unk
+Androide 18 Traje 3 -- E2445).unk
+Androide 18 Traje 4 (Vacio) -- E2446).unk
+Androide 18 Traje 1 dañado -- E2447).unk
+Androide 18 Traje 2 dañado -- E2448).unk
+Androide 18 Traje 3 dañado -- E2449).unk
+Androide 18 Traje 4 dañado (Vacio) -- E2450).unk
+
+Androide 19 Traje 1 -- E2453).unk
+Androide 19 Traje 2 -- E2454).unk
+Androide 19 Traje 3 (Vacio) -- E2455).unk
+Androide 19 Traje 4 (Vacio) -- E2456).unk
+Androide 19 Traje 1 dañado -- E2457).unk
+Androide 19 Traje 2 dañado -- E2458).unk
+Androide 19 Traje 3 dañado (Vacio) -- E2459).unk
+Androide 19 Traje 4 dañado (Vacio) -- E2460).unk
+
+Dr Gero Traje 1 -- E2463).unk
+Dr Gero Traje 2 -- E2464).unk
+Dr Gero Traje 3 (Vacio) -- E2465).unk
+Dr Gero Traje 4 (Vacio) -- E2466).unk
+Dr Gero Traje 1 dañado -- E2467).unk
+Dr Gero Traje 2 dañado -- E2468).unk
+Dr Gero Traje 3 dañado (Vacio) -- E2469).unk
+Dr Gero Traje 4 dañado (Vacio) -- E2470).unk
+
+Cell Forma 1 Traje 1 -- unknow_02473.unk
+Cell Forma 1 Traje 2 -- unknow_02474.unk
+Cell Forma 1 Traje 3 (Vacio) -- unknow_02475.unk
+Cell Forma 1 Traje 4 (Vacio) -- unknow_02476.unk
+Cell Forma 1 Traje 1 dañado -- unknow_02477.unk
+Cell Forma 1 Traje 2 dañado -- unknow_02478.unk
+Cell Forma 1 Traje 3 dañado (Vacio) -- unknow_02479.unk
+Cell Forma 1 Traje 4 dañado (Vacio) -- unknow_02480.unk
+
+Cell Forma 2 Traje 1 -- unknow_02483.unk
+Cell Forma 2 Traje 2 -- unknow_02484.unk
+Cell Forma 2 Traje 3 (Vacio) -- unknow_02485.unk
+Cell Forma 2 Traje 4 (Vacio) -- unknow_02486.unk
+Cell Forma 2 Traje 1 dañado -- unknow_02487.unk
+Cell Forma 2 Traje 2 dañado -- unknow_02488.unk
+Cell Forma 2 Traje 3 dañado (Vacio) -- unknow_02489.unk
+Cell Forma 2 Traje 4 dañado (Vacio) -- unknow_02490.unk
+
+Cell Perfecto Traje 1 -- unknow_02493.unk
+Cell Perfecto Traje 2 -- unknow_02494.unk
+Cell Perfecto Traje 3 (Vacio) -- unknow_02495.unk
+Cell Perfecto Traje 4 (Vacio) -- unknow_02496.unk
+Cell Perfecto Traje 1 dañado -- unknow_02497.unk
+Cell Perfecto Traje 2 dañado -- unknow_02498.unk
+Cell Perfecto Traje 3 dañado (Vacio) -- unknow_02499.unk
+Cell Perfecto Traje 4 dañado (Vacio) -- unknow_02500.unk
+
+Cell Perfecto 2 Traje 1 -- unknow_02503.unk
+Cell Perfecto 2 Traje 2 -- unknow_02504.unk
+Cell Perfecto 2 Traje 3 (Vacio) -- unknow_02505.unk
+Cell Perfecto 2 Traje 4 (Vacio) -- unknow_02506.unk
+Cell Perfecto 2 Traje 1 dañado -- unknow_02507.unk
+Cell Perfecto 2 Traje 2 dañado -- unknow_02508.unk
+Cell Perfecto 2 Traje 3 dañado (Vacio) -- unknow_02509.unk
+Cell Perfecto 2 Traje 4 dañado (Vacio) -- unknow_02510.unk
+
+Cell Junior Traje 1 -- E2513).unk
+Cell Junior Traje 2 -- E2514).unk
+Cell Junior Traje 3 (Vacio) -- E2515).unk
+Cell Junior Traje 4 (Vacio) -- E2516).unk
+Cell Junior Traje 1 dañado -- E2517).unk
+Cell Junior Traje 2 dañado -- E2518).unk
+Cell Junior Traje 3 dañado (Vacio) -- E2519).unk
+Cell Junior Traje 4 dañado (Vacio) -- E2520).unk
+
+Babidi Traje 1 -- ƒ‚ƒfE2523).unk
+Babidi Traje 2 -- ƒ‚ƒfE2524).unk
+Babidi Traje 3 (Vacio) -- ƒ‚ƒfE2525).unk
+Babidi Traje 4 (Vacio) -- ƒ‚ƒfE2526).unk
+Babidi Traje 1 dañado -- ƒ‚ƒfE2527).unk
+Babidi Traje 2 dañado -- ƒ‚ƒfE2528).unk
+Babidi Traje 3 dañado (Vacio) -- ƒ‚ƒfE2529).unk
+Babidi Traje 4 dañado (Vacio) -- ƒ‚ƒfE2530).unk
+
+Dabura Traje 1 -- E2533).unk
+Dabura Traje 2 -- E2534).unk
+Dabura Traje 3 (Vacio) -- E2535).unk
+Dabura Traje 4 (Vacio) -- E2536).unk
+Dabura Traje 1 dañado -- E2537).unk
+Dabura Traje 2 dañado -- E2538).unk
+Dabura Traje 3 dañado (Vacio) -- E2539).unk
+Dabura Traje 4 dañado (Vacio) -- E2540).unk
+
+Majin Buu (Gordo) Traje 1 -- ƒ‚E2543).unk
+Majin Buu (Gordo) Traje 2 -- ƒ‚E2544).unk
+Majin Buu (Gordo) Traje 3 (Vacio) -- ƒ‚E2545).unk
+Majin Buu (Gordo) Traje 4 (Vacio) -- ƒ‚E2546).unk
+Majin Buu (Gordo) Traje 1 dañado -- ƒ‚E2547).unk
+Majin Buu (Gordo) Traje 2 dañado -- ƒ‚E2548).unk
+Majin Buu (Gordo) Traje 3 dañado (Vacio) -- ƒ‚E2549).unk
+Majin Buu (Gordo) Traje 4 dañado (Vacio) -- ƒ‚E2550).unk
+
+Majin Buu (Pura maldad) Traje 1 -- ƒ‚E2553).unk
+Majin Buu (Pura maldad) Traje 2 -- ƒ‚E2554).unk
+Majin Buu (Pura maldad) Traje 3 (Vacio) -- ƒ‚E2555).unk
+Majin Buu (Pura maldad) Traje 4 (Vacio) -- ƒ‚E2556).unk
+Majin Buu (Pura maldad) Traje 1 dañado -- ƒ‚E2557).unk
+Majin Buu (Pura maldad) Traje 2 dañado -- ƒ‚E2558).unk
+Majin Buu (Pura maldad) Traje 3 dañado (Vacio) -- ƒ‚E2559).unk
+Majin Buu (Pura maldad) Traje 4 dañado (Vacio) -- ƒ‚E2560).unk
+
+Super Buu Traje 1 -- ƒ‚E2563).unk
+Super Buu Traje 2 -- ƒ‚E2564).unk
+Super Buu Traje 3 (Vacio) -- ƒ‚E2565).unk
+Super Buu Traje 4 (Vacio) -- ƒ‚E2566).unk
+Super Buu Traje 1 dañado -- ƒ‚E2567).unk
+Super Buu Traje 2 dañado -- ƒ‚E2568).unk
+Super Buu Traje 3 dañado (Vacio) -- ƒ‚E2569).unk
+Super Buu Traje 4 dañado (Vacio) -- ƒ‚E2570).unk
+
+Super Buu Gotenks Absorbido Traje 1 -- ƒ‚E2573).unk
+Super Buu Gotenks Absorbido Traje 2 -- ƒ‚E2574).unk
+Super Buu Gotenks Absorbido Traje 3 (Vacio) -- ƒ‚E2575).unk
+Super Buu Gotenks Absorbido Traje 4 (Vacio) -- ƒ‚E2576).unk
+Super Buu Gotenks Absorbido Traje 1 dañado -- ƒ‚E2577).unk
+Super Buu Gotenks Absorbido Traje 2 dañado -- ƒ‚E2578).unk
+Super Buu Gotenks Absorbido Traje 3 dañado (Vacio) -- ƒ‚E2579).unk
+Super Buu Gotenks Absorbido Traje 4 dañado (Vacio) -- ƒ‚E2580).unk
+
+Super Buu Gohan Absorbido Traje 1 -- ƒ‚E2583).unk
+Super Buu Gohan Absorbido Traje 2 -- ƒ‚E2584).unk
+Super Buu Gohan Absorbido Traje 3 (Vacio) -- ƒ‚E2585).unk
+Super Buu Gohan Absorbido Traje 4 (Vacio) -- ƒ‚E2586).unk
+Super Buu Gohan Absorbido Traje 1 dañado -- ƒ‚E2587).unk
+Super Buu Gohan Absorbido Traje 2 dañado -- ƒ‚E2588).unk
+Super Buu Gohan Absorbido Traje 3 dañado (Vacio) -- ƒ‚E2589).unk
+Super Buu Gohan Absorbido Traje 4 dañado (Vacio) -- ƒ‚E2590).unk
+
+Buu pequeño Traje 1 -- ƒ‚E2593).unk
+Buu pequeño Traje 2 -- ƒ‚E2594).unk
+Buu pequeño Traje 3 (Vacio) -- ƒ‚E2595).unk
+Buu pequeño Traje 4 (Vacio) -- ƒ‚E2596).unk
+Buu pequeño Traje 1 dañado -- ƒ‚E2597).unk
+Buu pequeño Traje 2 dañado -- ƒ‚E2598).unk
+Buu pequeño Traje 3 dañado (Vacio) -- ƒ‚E2599).unk
+Buu pequeño Traje 4 dañado (Vacio) -- ƒ‚E2600).unk
+
+Garlic Junior Traje 1 -- E2603).unk
+Garlic Junior Traje 2 -- E2604).unk
+Garlic Junior Traje 3 (Vacio) -- E2605).unk
+Garlic Junior Traje 4 (Vacio) -- E2606).unk
+Garlic Junior Traje 1 dañado -- E2607).unk
+Garlic Junior Traje 2 dañado -- E2608).unk
+Garlic Junior Traje 3 dañado (Vacio) -- E2609).unk
+Garlic Junior Traje 4 dañado (Vacio) -- E2610).unk
+
+Garlic Junior Transformado Traje 1 -- E2613).unk
+Garlic Junior Transformado Traje 2 -- E2614).unk
+Garlic Junior Transformado Traje 3 (Vacio) -- E2615).unk
+Garlic Junior Transformado Traje 4 (Vacio) -- E2616).unk
+Garlic Junior Transformado Traje 1 dañado -- E2617).unk
+Garlic Junior Transformado Traje 2 dañado -- E2618).unk
+Garlic Junior Transformado Traje 3 dañado (Vacio) -- E2619).unk
+Garlic Junior Transformado Traje 4 dañado (Vacio) -- E2620).unk
+
+Dr Willow Traje 1 -- ƒ‚ƒfE2623).unk
+Dr Willow Traje 2 -- ƒ‚ƒfE2624).unk
+Dr Willow Traje 3 (Vacio) -- ƒ‚ƒfE2625).unk
+Dr Willow Traje 4 (Vacio) -- ƒ‚ƒfE2626).unk
+Dr Willow Traje 1 dañado -- ƒ‚ƒfE2627).unk
+Dr Willow Traje 2 dañado -- ƒ‚ƒfE2628).unk
+Dr Willow Traje 3 dañado (Vacio) -- ƒ‚ƒfE2629).unk
+Dr Willow Traje 4 dañado (Vacio) -- ƒ‚ƒfE2630).unk
+
+Turles Traje 1 -- ƒ‚E2633).unk
+Turles Traje 2 -- ƒ‚E2634).unk
+Turles Traje 3 (Vacio) -- ƒ‚E2635).unk
+Turles Traje 4 (Vacio) -- ƒ‚E2636).unk
+Turles Traje 1 dañado -- ƒ‚E2637).unk
+Turles Traje 2 dañado -- ƒ‚E2638).unk
+Turles Traje 3 dañado (Vacio) -- ƒ‚E2639).unk
+Turles Traje 4 dañado (Vacio) -- ƒ‚E2640).unk
+
+Turles Mono Gigante Traje 1 -- ƒ‚E2643).unk
+Turles Mono Gigante Traje 2 -- ƒ‚E2644).unk
+Turles Mono Gigante Traje 3 (Vacio) -- ƒ‚E2645).unk
+Turles Mono Gigante Traje 4 (Vacio) -- ƒ‚E2646).unk
+Turles Mono Gigante Traje 1 dañado -- ƒ‚E2647).unk
+Turles Mono Gigante Traje 2 dañado -- ƒ‚E2648).unk
+Turles Mono Gigante Traje 3 dañado (Vacio) -- ƒ‚E2649).unk
+Turles Mono Gigante Traje 4 dañado (Vacio) -- ƒ‚E2650).unk
+
+Slug Traje 1 -- ƒ‚E2653).unk
+Slug Traje 2 -- ƒ‚E2654).unk
+Slug Traje 3 (Vacio) -- ƒ‚E2655).unk
+Slug Traje 4 (Vacio) -- ƒ‚E2656).unk
+Slug Traje 1 dañado -- ƒ‚E2657).unk
+Slug Traje 2 dañado -- ƒ‚E2658).unk
+Slug Traje 3 dañado (Vacio) -- ƒ‚E2659).unk
+Slug Traje 4 dañado (Vacio) -- ƒ‚E2660).unk
+
+Slug Gigante Traje 1 -- ƒ‚E2663).unk
+Slug Gigante Traje 2 -- ƒ‚E2664).unk
+Slug Gigante Traje 3 (Vacio) -- ƒ‚E2665).unk
+Slug Gigante Traje 4 (Vacio) -- ƒ‚E2666).unk
+Slug Gigante Traje 1 dañado -- ƒ‚E2667).unk
+Slug Gigante Traje 2 dañado -- ƒ‚E2668).unk
+Slug Gigante Traje 3 dañado (Vacio) -- ƒ‚E2669).unk
+Slug Gigante Traje 4 dañado (Vacio) -- ƒ‚E2670).unk
+
+Salza Traje 1 -- ƒ‚ƒfE2673).unk
+Salza Traje 2 -- ƒ‚ƒfE2674).unk
+Salza Traje 3 (Vacio) -- ƒ‚ƒfE2675).unk
+Salza Traje 4 (Vacio) -- ƒ‚ƒfE2676).unk
+Salza Traje 1 dañado -- ƒ‚ƒfE2677).unk
+Salza Traje 2 dañado -- ƒ‚ƒfE2678).unk
+Salza Traje 3 dañado (Vacio) -- ƒ‚ƒfE2679).unk
+Salza Traje 4 dañado (Vacio) -- ƒ‚ƒfE2680).unk
+
+Cooler Traje 1 -- ƒ‚ƒfE2683).unk
+Cooler Traje 2 -- ƒ‚ƒfE2684).unk
+Cooler Traje 3 (Vacio) -- ƒ‚ƒfE2685).unk
+Cooler Traje 4 (Vacio) -- ƒ‚ƒfE2686).unk
+Cooler Traje 1 dañado -- ƒ‚ƒfE2687).unk
+Cooler Traje 2 dañado -- ƒ‚ƒfE2688).unk
+Cooler Traje 3 dañado (Vacio) -- ƒ‚ƒfE2689).unk
+Cooler Traje 4 dañado (Vacio) -- ƒ‚ƒfE2690).unk
+
+Cooler Forma Final Traje 1 -- ƒ‚ƒfE2693).unk
+Cooler Forma Final Traje 2 -- ƒ‚ƒfE2694).unk
+Cooler Forma Final Traje 3 (Vacio) -- ƒ‚ƒfE2695).unk
+Cooler Forma Final Traje 4 (Vacio) -- ƒ‚ƒfE2696).unk
+Cooler Forma Final Traje 1 dañado -- ƒ‚ƒfE2697).unk
+Cooler Forma Final Traje 2 dañado -- ƒ‚ƒfE2698).unk
+Cooler Forma Final Traje 3 dañado (Vacio) -- ƒ‚ƒfE2699).unk
+Cooler Forma Final Traje 4 dañado (Vacio) -- ƒ‚ƒfE2700).unk
+
+Metal Cooler Traje 1 -- E2703).unk
+Metal Cooler Traje 2 -- E2704).unk
+Metal Cooler Traje 3 (Vacio) -- E2705).unk
+Metal Cooler Traje 4 (Vacio) -- E2706).unk
+Metal Cooler Traje 1 dañado -- E2707).unk
+Metal Cooler Traje 2 dañado -- E2708).unk
+Metal Cooler Traje 3 dañado (Vacio) -- E2709).unk
+Metal Cooler Traje 4 dañado (Vacio) -- E2710).unk
+
+Androide 13 Traje 1 -- l‘¢lŠÔ13†_0.unk
+Androide 13 Traje 2 -- l‘¢lŠÔ13†_0(2714).unk
+Androide 13 Traje 3 (Vacio) -- l‘¢lŠÔ13†_0(2715).unk
+Androide 13 Traje 4 (Vacio) -- l‘¢lŠÔ13†_0(2716).unk
+Androide 13 Traje 1 dañado -- l‘¢lŠÔ13†_0(2717).unk
+Androide 13 Traje 2 dañado -- l‘¢lŠÔ13†_0(2718).unk
+Androide 13 Traje 3 dañado (Vacio) -- l‘¢lŠÔ13†_0(2719).unk
+Androide 13 Traje 4 dañado (Vacio) -- l‘¢lŠÔ13†_0(2720).unk
+
+Androide 13 Transformado Traje 1 -- l‘¢lŠÔ13†_1.unk
+Androide 13 Transformado Traje 2 -- l‘¢lŠÔ13†_1(2724).unk
+Androide 13 Transformado Traje 3 (Vacio) -- l‘¢lŠÔ13†_1(2725).unk
+Androide 13 Transformado Traje 4 (Vacio) -- l‘¢lŠÔ13†_1(2726).unk
+Androide 13 Transformado Traje 1 dañado -- l‘¢lŠÔ13†_1(2727).unk
+Androide 13 Transformado Traje 2 dañado -- l‘¢lŠÔ13†_1(2728).unk
+Androide 13 Transformado Traje 3 dañado (Vacio) -- l‘¢lŠÔ13†_1(2729).unk
+Androide 13 Transformado Traje 4 dañado (Vacio) -- l‘¢lŠÔ13†_1(2730).unk
+
+Broly Traje 1 -- ƒ‚E2733).unk
+Broly Traje 2 -- ƒ‚E2734).unk
+Broly Traje 3 (Vacio) -- ƒ‚E2735).unk
+Broly Traje 4 (Vacio) -- ƒ‚E2736).unk
+Broly Traje 1 dañado -- ƒ‚E2737).unk
+Broly Traje 2 dañado -- ƒ‚E2738).unk
+Broly Traje 3 dañado (Vacio) -- ƒ‚E2739).unk
+Broly Traje 4 dañado (Vacio) -- ƒ‚E2740).unk
+
+Broly SSJ1 Traje 1 -- ƒ‚E2743).unk
+Broly SSJ1 Traje 2 -- ƒ‚E2744).unk
+Broly SSJ1 Traje 3 (Vacio) -- ƒ‚E2745).unk
+Broly SSJ1 Traje 4 (Vacio) -- ƒ‚E2746).unk
+Broly SSJ1 Traje 1 dañado -- ƒ‚E2747).unk
+Broly SSJ1 Traje 2 dañado -- ƒ‚E2748).unk
+Broly SSJ1 Traje 3 dañado (Vacio) -- ƒ‚E2749).unk
+Broly SSJ1 Traje 4 dañado (Vacio) -- ƒ‚E2750).unk
+
+Broly SSJ Legendario Traje 1 -- ƒ‚E2753).unk
+Broly SSJ Legendario Traje 2 -- ƒ‚E2754).unk
+Broly SSJ Legendario Traje 3 (Vacio) -- ƒ‚E2755).unk
+Broly SSJ Legendario Traje 4 (Vacio) -- ƒ‚E2756).unk
+Broly SSJ Legendario Traje 1 dañado -- ƒ‚E2757).unk
+Broly SSJ Legendario Traje 2 dañado -- ƒ‚E2758).unk
+Broly SSJ Legendario Traje 3 dañado (Vacio) -- ƒ‚E2759).unk
+Broly SSJ Legendario Traje 4 dañado (Vacio) -- ƒ‚E2760).unk
+
+Zangya Traje 1 -- ƒ‚ƒfE2763).unk
+Zangya Traje 2 -- ƒ‚ƒfE2764).unk
+Zangya Traje 3 (Vacio) -- ƒ‚ƒfE2765).unk
+Zangya Traje 4 (Vacio) -- ƒ‚ƒfE2766).unk
+Zangya Traje 1 dañado -- ƒ‚ƒfE2767).unk
+Zangya Traje 2 dañado -- ƒ‚ƒfE2768).unk
+Zangya Traje 3 dañado (Vacio) -- ƒ‚ƒfE2769).unk
+Zangya Traje 4 dañado (Vacio) -- ƒ‚ƒfE2770).unk
+
+Bojack Traje 1 -- ƒ{[ƒWƒƒƒbƒN_0.unk
+Bojack Traje 2 -- ƒ{[ƒWƒƒƒbƒN_0(2774).unk
+Bojack Traje 3 (Vacio) -- ƒ{[ƒWƒƒƒbƒN_0(2775).unk
+Bojack Traje 4 (Vacio) -- ƒ{[ƒWƒƒƒbƒN_0(2776).unk
+Bojack Traje 1 dañado -- ƒ{[ƒWƒƒƒbƒN_0(2777).unk
+Bojack Traje 2 dañado -- ƒ{[ƒWƒƒƒbƒN_0(2778).unk
+Bojack Traje 3 dañado (Vacio) -- ƒ{[ƒWƒƒƒbƒN_0(2779).unk
+Bojack Traje 4 dañado (Vacio) -- ƒ{[ƒWƒƒƒbƒN_0(2780).unk
+
+Bojack Transformado Traje 1 -- ƒ{[ƒWƒƒƒbƒN_1.unk
+Bojack Transformado Traje 2 -- ƒ{[ƒWƒƒƒbƒN_1(2784).unk
+Bojack Transformado Traje 3 (Vacio) -- ƒ{[ƒWƒƒƒbƒN_1(2785).unk
+Bojack Transformado Traje 4 (Vacio) -- ƒ{[ƒWƒƒƒbƒN_1(2786).unk
+Bojack Transformado Traje 1 dañado -- ƒ{[ƒWƒƒƒbƒN_1(2787).unk
+Bojack Transformado Traje 2 dañado -- ƒ{[ƒWƒƒƒbƒN_1(2788).unk
+Bojack Transformado Traje 3 dañado (Vacio) -- ƒ{[ƒWƒƒƒbƒN_1(2789).unk
+Bojack Transformado Traje 4 dañado (Vacio) -- ƒ{[ƒWƒƒƒbƒN_1(2790).unk
+
+Janemba Traje 1 -- E2793).unk
+Janemba Traje 2 -- E2794).unk
+Janemba Traje 3 (Vacio) -- E2795).unk
+Janemba Traje 4 (Vacio) -- E2796).unk
+Janemba Traje 1 dañado -- E2797).unk
+Janemba Traje 2 dañado -- E2798).unk
+Janemba Traje 3 dañado (Vacio) -- E2799).unk
+Janemba Traje 4 dañado (Vacio) -- E2800).unk
+
+Super Janemba Traje 1 -- E2803).unk
+Super Janemba Traje 2 -- E2804).unk
+Super Janemba Traje 3 (Vacio) -- E2805).unk
+Super Janemba Traje 4 (Vacio) -- E2806).unk
+Super Janemba Traje 1 dañado -- E2807).unk
+Super Janemba Traje 2 dañado -- E2808).unk
+Super Janemba Traje 3 dañado (Vacio) -- E2809).unk
+Super Janemba Traje 4 dañado (Vacio) -- E2810).unk
+
+Hildegarn Traje 1 -- E2813).unk
+Hildegarn Traje 2 -- E2814).unk
+Hildegarn Traje 3 (Vacio) -- E2815).unk
+Hildegarn Traje 4 (Vacio) -- E2816).unk
+Hildegarn Traje 1 dañado -- E2817).unk
+Hildegarn Traje 2 dañado -- E2818).unk
+Hildegarn Traje 3 dañado (Vacio) -- E2819).unk
+Hildegarn Traje 4 dañado (Vacio) -- E2820).unk
+
+Baby Vegeta Traje 1 -- ƒxƒr[ƒxƒW[ƒ^.unk
+Baby Vegeta Traje 2 -- ƒxƒr[ƒxƒW[ƒ^(2824).unk
+Baby Vegeta Traje 3 (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2825).unk
+Baby Vegeta Traje 4 (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2826).unk
+Baby Vegeta Traje 1 dañado -- ƒxƒr[ƒxƒW[ƒ^(2827).unk
+Baby Vegeta Traje 2 dañado -- ƒxƒr[ƒxƒW[ƒ^(2828).unk
+Baby Vegeta Traje 3 dañado (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2829).unk
+Baby Vegeta Traje 4 dañado (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2830).unk
+
+Super Baby 1 Traje 1 -- ƒxƒr[ƒxƒW[ƒ^(2833).unk
+Super Baby 1 Traje 2 -- ƒxƒr[ƒxƒW[ƒ^(2834).unk
+Super Baby 1 Traje 3 (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2835).unk
+Super Baby 1 Traje 4 (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2836).unk
+Super Baby 1 Traje 1 dañado -- ƒxƒr[ƒxƒW[ƒ^(2837).unk
+Super Baby 1 Traje 2 dañado -- ƒxƒr[ƒxƒW[ƒ^(2838).unk
+Super Baby 1 Traje 3 dañado (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2839).unk
+Super Baby 1 Traje 4 dañado (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2840).unk
+
+Super Baby 2 Traje 1 -- ƒxƒr[ƒxƒW[ƒ^(2843).unk
+Super Baby 2 Traje 2 -- ƒxƒr[ƒxƒW[ƒ^(2844).unk
+Super Baby 2 Traje 3 (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2845).unk
+Super Baby 2 Traje 4 (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2846).unk
+Super Baby 2 Traje 1 dañado -- ƒxƒr[ƒxƒW[ƒ^(2847).unk
+Super Baby 2 Traje 2 dañado -- ƒxƒr[ƒxƒW[ƒ^(2848).unk
+Super Baby 2 Traje 3 dañado (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2849).unk
+Super Baby 2 Traje 4 dañado (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2850).unk
+
+Baby Mono Gigante Traje 1 -- ƒxƒr[ƒxƒW[ƒ^(2853).unk
+Baby Mono Gigante Traje 2 -- ƒxƒr[ƒxƒW[ƒ^(2854).unk
+Baby Mono Gigante Traje 3 (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2855).unk
+Baby Mono Gigante Traje 4 (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2856).unk
+Baby Mono Gigante Traje 1 dañado -- ƒxƒr[ƒxƒW[ƒ^(2857).unk
+Baby Mono Gigante Traje 2 dañado -- ƒxƒr[ƒxƒW[ƒ^(2858).unk
+Baby Mono Gigante Traje 3 dañado (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2859).unk
+Baby Mono Gigante Traje 4 dañado (Vacio) -- ƒxƒr[ƒxƒW[ƒ^(2860).unk
+
+Super Androide 17 Traje 1 -- E2863).unk
+Super Androide 17 Traje 2 -- E2864).unk
+Super Androide 17 Traje 3 (Vacio) -- E2865).unk
+Super Androide 17 Traje 4 (Vacio) -- E2866).unk
+Super Androide 17 Traje 1 dañado -- E2867).unk
+Super Androide 17 Traje 2 dañado -- E2868).unk
+Super Androide 17 Traje 3 dañado (Vacio) -- E2869).unk
+Super Androide 17 Traje 4 dañado (Vacio) -- E2870).unk
+
+Dragón de 4 Estrellas Traje 1 -- E2873).unk
+Dragón de 4 Estrellas Traje 2 -- E2874).unk
+Dragón de 4 Estrellas Traje 3 (Vacio) -- E2875).unk
+Dragón de 4 Estrellas Traje 4 (Vacio) -- E2876).unk
+Dragón de 4 Estrellas Traje 1 dañado -- E2877).unk
+Dragón de 4 Estrellas Traje 2 dañado -- E2878).unk
+Dragón de 4 Estrellas Traje 3 dañado (Vacio) -- E2879).unk
+Dragón de 4 Estrellas Traje 4 dañado (Vacio) -- E2880).unk
+
+Dragón de 1 Estrella Traje 1 -- ƒC[ƒVƒ“ƒƒ“_0.unk
+Dragón de 1 Estrella Traje 2 -- ƒC[ƒVƒ“ƒƒ“_0(2884).unk
+Dragón de 1 Estrella Traje 3 (Vacio) -- ƒC[ƒVƒ“ƒƒ“_0(2885).unk
+Dragón de 1 Estrella Traje 4 (Vacio) -- ƒC[ƒVƒ“ƒƒ“_0(2886).unk
+Dragón de 1 Estrella Traje 1 dañado -- ƒC[ƒVƒ“ƒƒ“_0(2887).unk
+Dragón de 1 Estrella Traje 2 dañado -- ƒC[ƒVƒ“ƒƒ“_0(2888).unk
+Dragón de 1 Estrella Traje 3 dañado (Vacio) -- ƒC[ƒVƒ“ƒƒ“_0(2889).unk
+Dragón de 1 Estrella Traje 4 dañado (Vacio) -- ƒC[ƒVƒ“ƒƒ“_0(2890).unk
+
+Dragón de 1 Estrella Transformado Traje 1 -- ƒC[ƒVƒ“ƒƒ“_1.unk
+Dragón de 1 Estrella Transformado Traje 2 -- ƒC[ƒVƒ“ƒƒ“_1(2894).unk
+Dragón de 1 Estrella Transformado Traje 3 (Vacio) -- ƒC[ƒVƒ“ƒƒ“_1(2895).unk
+Dragón de 1 Estrella Transformado Traje 4 (Vacio) -- ƒC[ƒVƒ“ƒƒ“_1(2896).unk
+Dragón de 1 Estrella Transformado Traje 1 dañado -- ƒC[ƒVƒ“ƒƒ“_1(2897).unk
+Dragón de 1 Estrella Transformado Traje 2 dañado -- ƒC[ƒVƒ“ƒƒ“_1(2898).unk
+Dragón de 1 Estrella Transformado Traje 3 dañado (Vacio) -- ƒC[ƒVƒ“ƒƒ“_1(2899).unk
+Dragón de 1 Estrella Transformado Traje 4 dañado (Vacio) -- ƒC[ƒVƒ“ƒƒ“_1(2900).unk
+
+Tao Pai Pai Traje 1 -- ƒ‚ƒfE2903).unk
+Tao Pai Pai Traje 2 -- ƒ‚ƒfE2904).unk
+Tao Pai Pai Traje 3 (Vacio) -- ƒ‚ƒfE2905).unk
+Tao Pai Pai Traje 4 (Vacio) -- ƒ‚ƒfE2906).unk
+Tao Pai Pai Traje 1 dañado -- ƒ‚ƒfE2907).unk
+Tao Pai Pai Traje 2 dañado -- ƒ‚ƒfE2908).unk
+Tao Pai Pai Traje 3 dañado (Vacio) -- ƒ‚ƒfE2909).unk
+Tao Pai Pai Traje 4 dañado (Vacio) -- ƒ‚ƒfE2910).unk
+
+Cyborg Tao Pai Pai Traje 1 -- ƒ‚ƒfE2913).unk
+Cyborg Tao Pai Pai Traje 2 -- ƒ‚ƒfE2914).unk
+Cyborg Tao Pai Pai Traje 3 (Vacio) -- ƒ‚ƒfE2915).unk
+Cyborg Tao Pai Pai Traje 4 (Vacio) -- ƒ‚ƒfE2916).unk
+Cyborg Tao Pai Pai Traje 1 dañado -- ƒ‚ƒfE2917).unk
+Cyborg Tao Pai Pai Traje 2 dañado -- ƒ‚ƒfE2918).unk
+Cyborg Tao Pai Pai Traje 3 dañado (Vacio) -- ƒ‚ƒfE2919).unk
+Cyborg Tao Pai Pai Traje 4 dañado (Vacio) -- ƒ‚ƒfE2920).unk
+
+General Blue Traje 1 -- unknow_02923.unk
+General Blue Traje 2 -- unknow_02924.unk
+General Blue Traje 3 (Vacio) -- unknow_02925.unk
+General Blue Traje 4 (Vacio) -- unknow_02926.unk
+General Blue Traje 1 dañado -- unknow_02927.unk
+General Blue Traje 2 dañado -- unknow_02928.unk
+General Blue Traje 3 dañado (Vacio) -- unknow_02929.unk
+General Blue Traje 4 dañado (Vacio) -- unknow_02930.unk
+
+Akuman Traje 1 -- ƒ‚E2933).unk
+Akuman Traje 2 -- ƒ‚E2934).unk
+Akuman Traje 3 (Vacio) -- ƒ‚E2935).unk
+Akuman Traje 4 (Vacio) -- ƒ‚E2936).unk
+Akuman Traje 1 dañado -- ƒ‚E2937).unk
+Akuman Traje 2 dañado -- ƒ‚E2938).unk
+Akuman Traje 3 dañado (Vacio) -- ƒ‚E2939).unk
+Akuman Traje 4 dañado (Vacio) -- ƒ‚E2940).unk
+
+Robot de Pilaf Traje 1 -- ƒsƒ‰ƒtƒ}ƒVƒ“_0.unk
+Robot de Pilaf Traje 2 -- ƒsƒ‰ƒtƒ}ƒVƒ“_0(2944).unk
+Robot de Pilaf Traje 3 (Vacio) -- ƒsƒ‰ƒtƒ}ƒVƒ“_0(2945).unk
+Robot de Pilaf Traje 4 (Vacio) -- ƒsƒ‰ƒtƒ}ƒVƒ“_0(2946).unk
+Robot de Pilaf Traje 1 dañado -- ƒsƒ‰ƒtƒ}ƒVƒ“_0(2947).unk
+Robot de Pilaf Traje 2 dañado -- ƒsƒ‰ƒtƒ}ƒVƒ“_0(2948).unk
+Robot de Pilaf Traje 3 dañado (Vacio) -- ƒsƒ‰ƒtƒ}ƒVƒ“_0(2949).unk
+Robot de Pilaf Traje 4 dañado (Vacio) -- ƒsƒ‰ƒtƒ}ƒVƒ“_0(2950).unk
+
+Robot de Pilaf Fusion Traje 1 -- ƒsƒ‰ƒtƒ}ƒVƒ“_1.unk
+Robot de Pilaf Fusion Traje 2 -- ƒsƒ‰ƒtƒ}ƒVƒ“_1(2954).unk
+Robot de Pilaf Fusion Traje 3 (Vacio) -- ƒsƒ‰ƒtƒ}ƒVƒ“_1(2955).unk
+Robot de Pilaf Fusion Traje 4 (Vacio) -- ƒsƒ‰ƒtƒ}ƒVƒ“_1(2956).unk
+Robot de Pilaf Fusion Traje 1 dañado -- ƒsƒ‰ƒtƒ}ƒVƒ“_1(2957).unk
+Robot de Pilaf Fusion Traje 2 dañado -- ƒsƒ‰ƒtƒ}ƒVƒ“_1(2958).unk
+Robot de Pilaf Fusion Traje 3 dañado (Vacio) -- ƒsƒ‰ƒtƒ}ƒVƒ“_1(2959).unk
+Robot de Pilaf Fusion Traje 4 dañado (Vacio) -- ƒsƒ‰ƒtƒ}ƒVƒ“_1(2960).unk
+
+Tambourine Traje 1 -- ƒ‚E2963).unk
+Tambourine Traje 2 -- ƒ‚E2964).unk
+Tambourine Traje 3 (Vacio) -- ƒ‚E2965).unk
+Tambourine Traje 4 (Vacio) -- ƒ‚E2966).unk
+Tambourine Traje 1 dañado -- ƒ‚E2967).unk
+Tambourine Traje 2 dañado -- ƒ‚E2968).unk
+Tambourine Traje 3 dañado (Vacio) -- ƒ‚E2969).unk
+Tambourine Traje 4 dañado (Vacio) -- ƒ‚E2970).unk
+
+Rey Demonio Piccolo Traje 1 -- ƒsƒbƒRƒ‘å–‚‰¤.unk
+Rey Demonio Piccolo Traje 2 -- ƒsƒbƒRƒ‘å–‚‰¤(2974).unk
+Rey Demonio Piccolo Traje 3 (Vacio) -- ƒsƒbƒRƒ‘å–‚‰¤(2975).unk
+Rey Demonio Piccolo Traje 4 (Vacio) -- ƒsƒbƒRƒ‘å–‚‰¤(2976).unk
+Rey Demonio Piccolo Traje 1 dañado -- ƒsƒbƒRƒ‘å–‚‰¤(2977).unk
+Rey Demonio Piccolo Traje 2 dañado -- ƒsƒbƒRƒ‘å–‚‰¤(2978).unk
+Rey Demonio Piccolo Traje 3 dañado (Vacio) -- ƒsƒbƒRƒ‘å–‚‰¤(2979).unk
+Rey Demonio Piccolo Traje 4 dañado (Vacio) -- ƒsƒbƒRƒ‘å–‚‰¤(2980).unk
+
+Arale Traje 1 -- unknow_02983.unk
+Arale Traje 2 -- unknow_02984.unk
+Arale Traje 3 (Vacio) -- unknow_02985.unk
+Arale Traje 4 (Vacio) -- unknow_02986.unk
+Arale Traje 1 dañado -- unknow_02987.unk
+Arale Traje 2 dañado -- unknow_02988.unk
+Arale Traje 3 dañado (Vacio) -- unknow_02989.unk
+Arale Traje 4 dañado (Vacio) -- unknow_02990.unk
+
+
+Milk Traje 1 -- pa(2993).unk
+Milk Traje 2 -- pa(2994).unk
+Milk Traje 3 (Vacio) -- pa(2995).unk
+Milk Traje 4 (Vacio) -- pa(2996).unk
+Milk Traje 1 dañado -- pa(2997).unk
+Milk Traje 2 dañado -- pa(2998).unk
+Milk Traje 3 dañado (Vacio) -- pa(2999).unk
+Milk Traje 4 dañado (Vacio) -- pa(3000).
+
+Spopovich Traje 1 -- E3003).unk
+Spopovich Traje 2 -- E3004).unk
+Spopovich Traje 3 (Vacio) -- E3005).unk
+Spopovich Traje 4 (Vacio) -- E3006).unk
+Spopovich Traje 1 dañado -- E3007).unk
+Spopovich Traje 2 dañado -- E3008).unk
+Spopovich Traje 3 dañado (Vacio) -- E3009).unk
+Spopovich Traje 4 dañado (Vacio) -- E3010).unk
+
+Gohan del Futuro Traje 1 -- E3013).unk
+Gohan del Futuro Traje 2 -- E3014).unk
+Gohan del Futuro Traje 3 (Vacio) -- E3015).unk
+Gohan del Futuro Traje 4 (Vacio) -- E3016).unk
+Gohan del Futuro Traje 1 dañado -- E3017).unk
+Gohan del Futuro Traje 2 dañado -- E3018).unk
+Gohan del Futuro Traje 3 dañado (Vacio) -- E3019).unk
+Gohan del Futuro Traje 4 dañado (Vacio) -- E3020).unk
+
+Gohan del Futuro SSJ Traje 1 -- E3023).unk
+Gohan del Futuro SSJ Traje 2 -- E3024).unk
+Gohan del Futuro SSJ Traje 3 (Vacio) -- E3025).unk
+Gohan del Futuro SSJ Traje 4 (Vacio) -- E3026).unk
+Gohan del Futuro SSJ Traje 1 dañado -- E3027).unk
+Gohan del Futuro SSJ Traje 2 dañado -- E3028).unk
+Gohan del Futuro SSJ Traje 3 dañado (Vacio) -- E3029).unk
+Gohan del Futuro SSJ Traje 4 dañado (Vacio) -- E3030).unk
+
+este archivo de bloc de notas esta echo Por Axl1917 para el foro http://mod-tenkaichi.peru-foro.com/ 
